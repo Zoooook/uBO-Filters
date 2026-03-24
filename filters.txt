@@ -184,6 +184,11 @@ twitch.tv##img[alt="in collaboration with"] + div:has(> img)
 twitch.tv##.storiesLeftNavSection--csO9S
 twitch.tv##div.chat-shell:has(> div > div > section.chat-room > div > div > div > div > div.banned-chat-overlay__halt)
 
+wikipedia.org###centralNotice
+wikipedia.org###mwe-popups-svg
+wikipedia.org##.cn-fundraising
+wikipedia.org##.mwe-popups
+
 youtube.com##.yt-bubble-hint-renderer
 youtube.com##.ytp-ce-element
 youtube.com##div#expandable-metadata.style-scope.ytd-watch-flexy:has(> ytd-expandable-metadata-renderer.style-scope.ytd-watch-flexy > div#header.style-scope.ytd-expandable-metadata-renderer > div#left-section.style-scope.ytd-expandable-metadata-renderer > div#thumbnail.style-scope.ytd-expandable-metadata-renderer)
