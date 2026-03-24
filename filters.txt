@@ -1,0 +1,183 @@
+amazon.com###ad
+amazon.com###universal-detail-ilm
+amazon.com##div[name="goKindleStaticPopDiv"]
+amazon.com##.celwidget.c-f[cel_widget_id="cr-product-insights_customer-reviews-product-insights_0"]
+# rufus
+amazon.com##div#ppd > div#leftCol > div#imageBlock_feature_div + div#nile-inline_feature_div.celwidget
+
+discord.com##a[href="/store"]
+discord.com##a[href="/shop"]
+# discord.com##div.layerContainer_d5a653:has(> div.layer_ad604d > div.focusLock__10aa5)
+discord.com##div.separator_fdbcfd:has(+ div.header_f72511:has(> div.eyebrow_f53856.headerText__94c22:has-text(/^Billing Settings$/)))
+discord.com##div.separator_fdbcfd:has(+ div.item__48dda.themed_b957e8:has-text(/^What\'s New$/))
+discord.com##div.header_f72511:has(> div.eyebrow_f53856.headerText__94c22:has-text(/^Billing Settings$/))
+discord.com##div.premiumTab__57bdc.item__48dda.themed_b957e8
+discord.com##div.item__48dda.themed_b957e8:has-text(/^(Server Boost|Subscriptions|Gift Inventory|Billing|What\'s New|Merch|HypeSquad)$/)
+discord.com##div.separator_fdbcfd:has(+ div.socialLinks_c1fc99)
+discord.com##div.socialLinks_c1fc99
+discord.com##div.premiumFeatureBorder__9bbb3.featureBorder_a44f20
+discord.com###cash-app-pay-container
+discord.com##.notice__5fd4c.colorPremiumTier2_b5437b.colorPremium__32b12
+discord.com##li:has(> button.emojiItemDisabled__36cbf)
+discord.com##li.messageListItem__6a4fb > div > div > img[src*="gif"]
+
+# ads - 2025-08-04
+docs.google.com##div:has(> div > div.docs-promo-container)
+
+# Gemini button - 2025-09-07
+drive.google.com##div#bPjCde.gb_se.gb_re:has(> div.a-OkO9ve-gAsIFc.a-OkO9ve-Qs0SX-yp5uJf.Hb-ja-Na > div.x9V2O > div > div.fkkwSc.e5IPTd > div.VOYwb.wUn25c > div.lWI5Pb)
+
+facebook.com###pagelet_ego_pane
+facebook.com###pagelet_megaphone
+facebook.com###pagelet_trending_tags_and_topics
+facebook.com###timeline_info_review_unit
+facebook.com##._3lkn
+facebook.com##._4-u2.mbm._la
+facebook.com##._4-u2.mvm._5jmm.clearfix._4gv-._54bx._54bz.carouselParent._4-u8
+facebook.com##.fbPageBanner.uiBoxYellow.noborder
+facebook.com##li:has(> span > div > a[aria-label^="Communities"])
+facebook.com##li:has(> span > div > a[aria-label^="Gaming"])
+facebook.com##li:has(> span > div > a[aria-label^="Groups"])
+facebook.com##li:has(> span > div > a[aria-label^="Home"])
+facebook.com##li:has(> span > div > a[aria-label^="Marketplace"])
+facebook.com##li:has(> span > div > a[aria-label^="Watch"])
+facebook.com##span.html-span.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1hl2dhg.x16tdsg8.x1vvkbs.xyiysdx.xuxw1ft:has(> span.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x1xmvt09.x1lliihq.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.x4zkp8e.x3x7a5m.x1nxh6w3.x1sibtaa.xo1l8bm.x1fey0fg > span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft.x1j85h84 > span.html-span.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1hl2dhg.x16tdsg8.x1vvkbs:has-text(/^Follow up/))
+
+google.com###snbc
+google.com##.G4fxle
+google.com##div.BxcCLb.z1gt3:has(> img):has(> div.Llv6V > span.t5IqSb):has(> div.Llv6V > span.AJKM0c):has(> div.Llv6V > div.K0MpIf)
+# precise location harrassment - 2/20
+google.com##.gTMtLb.fp-nh
+# AI ad
+google.com##div.BxcCLb.YzCcne:has(> div.Llv6V > div.K0MpIf)
+# AI ad
+google.com##div#docs-sidekick-gen-ai-promo-button-container
+# AI answers - 2026-03-24
+google.com##div:has(> div > div.wQiwMc.related-question-pair > div.roMIYb.o3PDvf.HYvwY.oST1qe.g7pt6d.ilulF > div.bCOlv > div.IZE3Td > div.r2fjmd.t0bRye > div > div > div > div.XTvndd.k9pDj > div.hICk5e > div > div > div > div > div)
+# google.com##div:has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div > div.TLJWfb.GTERze > div > div > div.R0DW9c > div.vH6rvf.FJCJfd.IRx9Tb > div.Cswgi.sjVJQd.rNHry > div.Urm71 > div > div > div):has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div.bCOlv > div.IZE3Td > div > div > div.XTvndd.k9pDj > div.AQisZb > div > div.hICk5e > div.G3toM > div > div > div.OZ9ddf.GkDqAd > div > div.nk9vdc.GYaNDc > span.YWpX0d > span):has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div.bCOlv > div.IZE3Td > div > div > div.XTvndd.k9pDj > div.AQisZb > div > div.hICk5e > div.lJyoBc > div > div.MBttkb > div > div.aPfNm > div > div.p2M1Qe.scm-c.YzCcne.PZPZlf > div.f5cPye > div.WaaZC > div.rPeykc > span)
+# AI overviews
+# google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div > div.YNk70c.EjQTId > div > div > div.q8sySb > div.YzCcne > div.hdzaWe > div > div > div > div.h7Tj7e > div.D5ad8b > div.X6JNf > div.s7d4ef > div.s7d4ef > div.OZ9ddf.GkDqAd.WAUd4.RK5Kkf)
+# google.com##div:has(> div > div.q8sySb > div.YzCcne > div.hdzaWe > div > div > div > div.h7Tj7e > div.D5ad8b > div.X6JNf > div.s7d4ef > div.s7d4ef > div.OZ9ddf.GkDqAd.WAUd4.RK5Kkf)
+# google.com##div:has(> div > div.olrp5b > a.XVMlrc.C6AK7c > div.mXwfNd > div.mVH5Fc > span.R1QWuf)
+# AI overview - 2026-01-26
+google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div > div.YNk70c.EjQTId > div > div > div#eKIzJc)
+google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div > div > div#eKIzJc)
+# AI overview - 2026-02-02
+google.com##div.ULSxyf:has(> div.MjjYud > div#eKIzJc > div.YzCcne > div.hdzaWe > div.EyBRub.jUja0e)
+# AI overview - 2026-03-24
+google.com##div.SLPe5b:has(> div.XqFnDf > div > div > div.YzCcne > div.hdzaWe > div.EyBRub.jUja0e)
+# Result categories - 2025-08-02
+google.com##div:has(> a.C6AK7c > div.mXwfNd > span.R1QWuf:has-text(/^[Short videos|Shopping]/))
+
+# Shopping + AI overview
+google.com##div.xfX4Ac.JI5uCe.qB9BY.yWNJXb.qzPQNd:has(> div > div.JCZQSb > div > div > div.em0bhd.EyBRub > div.J5apLe.mnr-c.dZzA0c > div > div > product-viewer-group > g-card.tkfIqc.wHYlTd):has(> div > div.JCZQSb > div > div > div.em0bhd.EyBRub > div.op3jbb > div.Q9lB1d > div.Fjacjc > div.YzCcne > div > div > div > div > div > div)
+# AI mode - 2026-01-26
+google.com##div:has(> div > div.olrp5b > a.XVMlrc > div > div > span)
+# gmail support button
+google.com##div.zo:has(> a.gb_ie.gb_h.gb_hd.t6)
+# gmail gemini button
+google.com##div:has(> div.r4vW1e.e5IPTd > span > button.VYBDae-JX-I.VYBDae-JX-I-ql-ay5-ays.XyWBof):has(> div.r4vW1e.e5IPTd > span > div.ne2Ple-oshW8e-J9)
+# gmail apps button
+google.com##div.gb_3c:has(> div.gb_J.gb_cd.gb_0 > div.gb_D > a.gb_B)
+# what people are saying - 2026-02-14
+google.com##div.ULSxyf:has(> div.MjjYud > div.A6K0A > g-section-with-header.yG4QQe.TBC9ub.NbhJ1c > div.e2BEnf.q8U8x > div.Kcn6oc.adDDi > span.mgAbYb.RES9jf.IFnjPb > div.jUUgH > span.sOq4Gc)
+# short videos in results 2025-06-17
+google.com##div.A6K0A:has(> div > div.JCZQSb > div.kXPUVc > div.sz3HNe.PJI6ge.adDDi > div.T6zPgb > div > span.mgAbYb.RES9jf.IFnjPb.OSrXXb)
+# AI overview in sidebar
+google.com##div.A6K0A.z4oRIf.xfX4Ac.JI5uCe.qB9BY.CeIyHb.WY0eLb.qzPQNd.EqrSYc:has(> div > div.JCZQSb > div > div > div.yTFeqb.wp-ms.oJxARb.nBWfrd > div.WFxqwc.BGdUVb.OTFaAf > div.xGj8Mb > div.wDYxhc > div > div.YzCcne > div > div > div.INkyic > div.Ee1D6c > div.EiY0Ed > div.YGuM0b > div.bsmXxe > div.MBttkb > div > div.aPfNm > div > div > div.DuQANe.MSJHRb > a.NOo3C.IQJQsd > span.ds42Pd)
+# embedded AI results - 2026-01-21
+google.com##div.ULSxyf:has(> div.MjjYud > div#eKIzJc.Wm5I1e)
+# AI header - 2025-12-09
+google.com##div#rcnt.YNk70c.NbTBrb.GyAeWb.EyBRub.tXI1nd > div.SLPe5b:has(> div.SLPe5b > div.XqFnDf > div > div.kp-wholepage-osrp.n4H9Ud > div.HdbW6.MjUjnf.VM6qJ.Mefd0c > div.hHq9Z.m0pBqd > div > div.KsRP6)
+google.com##div#rcnt.YNk70c.NbTBrb.GyAeWb.EyBRub.tXI1nd > div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd > div > div > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV)
+# location harrassment - 2026-01-17
+google.com##div#lb.gTMtLb.OLKT8d
+# search result AI description - 2025-10-10
+google.com##div.kb0PBd.A9Y9g:has(> div > div > div > div.MfkhVb.XNfAUb > div.RyIFgf > div.EDblX.HG5ZQb > div.VXqlzf.XRVJtc.x3A3gd.CLLuUd.rEzOad > div.VqeGe > div.THl5qe.p7bv.wYFOId > div.hoFhsb.EXH1Ce > div.ORij0c.vqseUe > a.LVegBe > span.z1asCe.GNeCNe > svg  > path)
+# AI blurb at top - 2026-02-18
+google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd.EyBRub > div > div.kJSB8 > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV > div.D7ethf.CYJS5e.QejDDf.SodP3b.GHMsie.o6dXvc > div.wDYxhc > div > div.sxWgqf)
+
+instagram.com##nav
+instagram.com##footer
+instagram.com##._aagw
+instagram.com##.x1xyqytf.x1yvgwvq.x1dqoszc.x1ixjvfu.xhk4uv.x13fuv20.xu3j5b3.x1q0q8m5.x26u7qi.x178xt8z.xm81vs4.xso031l.xy80clv.x1arihgo._ackg
+instagram.com##.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k
+instagram.com##.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj
+instagram.com##.x1ey2m1c.xds687c.xixxii4.x17qophe.x13vifvy.x1h0vfkc
+instagram.com##.x78zum5.xdt5ytf.xg6iff7.x1n2onr6
+instagram.com##+js(cookie-remover)
+instagram.com##div#scrollview.x9f619.x1ja2u2z.x1pq812k.x5yr21d.x1o0tod.xw2csxc.x1odjw0f.xixxii4.x1rohswg.x13vifvy.xh8yej3.xfk6m8.x1yqm8si.xjx87ck:has(> div.x78zum5.xdt5ytf.xg6iff7.xippug5.x1n2onr6)
+instagram.com##div.x6s0dn4.x1jx94hy.x1obq294.x5a5i1n.xde0f50.x15x8krk.xdy0x9s.x78zum5.x2lah0s.x1qughib.xyamay9.x1xnnf8n.x1l90r2v.x106a9eq.x2b8uid.xeroabh.x1ww3oar.xs4xyr0.x1wpepyw.x4hg4is.x1iy03kw:has(> div.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1uhb9sk.x6ikm8r.x10wlt62.x1q0g3np.xqjyukv.x6s0dn4.x1oa3qoh.x1nhvcw1.x1t1x2f9.x1iyjqo2.xs83m0k > div.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1uhb9sk.xdt5ytf.x1a02dak.xqjyukv.x1qjc9v5.x1oa3qoh.xl56j7k.x1t1x2f9.x1iyjqo2.xs83m0k.x5yr21d.xw2csxc.x1odjw0f > span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.x1ji0vk5.x18bv5gf.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.x1i0vuye.xvs91rp.xo1l8bm.x5n08af.x1yc453h.x10wh9bi.xpm28yp.x8viiok.x1o7cslx > span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62):has(> div.x1c4vz4f.x2lah0s > div.x1i10hfl.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x972fbf.x10w94by.x1qhh985.x14e42zd.xdl72j9.x2lah0s.xe8uvvx.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.x18d9i69.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x1lku1pv.x1a2a7pz.x6s0dn4.xjyslct.x1obq294.x5a5i1n.xde0f50.x15x8krk.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x9f619.x9bdzbf.x1ypdohk.x1f6kntn.xwhw2v2.x10w6t97.xl56j7k.x17ydfre.xf7dkkf.xv54qhq.x1n2onr6.x2b8uid.xlyipyv.x87ps6o.x14atkfc.x5c86q.x18br7mf.x1i0vuye.x18cabeq.x158me93.xk4oym4.x1uugd1q.x3nfvp2)
+instagram.com##.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x9f619.xjbqb8w.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x78zum5.x5yr21d.xl56j7k.xixxii4.x13vifvy.xh8yej3.x1355qak
+
+mail.google.com##.J-KU-Jg.J-KU-Jg-Zc.aj5
+mail.google.com##.aeO
+mail.google.com##.akc.aZ6
+mail.google.com##.brb
+mail.google.com##.w-MH
+mail.yahoo.com###popover-selector
+mail.yahoo.com###ybarPoptart
+mail.yahoo.com##.H_qg.X_0.o_h.A_6EqO.ab_C.p_R.D_ZKxLmw.v_g9505.cdPFi_Z281SGl.k_w.I4_ZpQYvz.bn_dBP.bm_FJ.bj_ZpQYvz.I_ZprBTp.I4_fj1WV
+mail.yahoo.com##.overlay
+mail.yahoo.com##.p_a Z_f8a
+mail.yahoo.com##.p_f.T_0.R_0.B_0.L_0.Z_3mRud.I_Zjpytw.D_F.ab_C gl_C
+mail.yahoo.com##.takeover
+
+reddit.com##._1x6pySZ2CoUnAfsFhGe7J1
+reddit.com##div.x0hiXHicn7r3BG9m1FJH4._23q1waDr4n_2fR5A7zcZzb
+reddit.com##span._2I12Htze2UzJmmfnrgYJOn
+reddit.com##svg._1bWuGs_1sq4Pqy099x_yy-
+reddit.com##button._3hna43Sh0DTnoV7v2NNc2r._2iuoyPiKHN3kfOoeIQalDT._10BQ7pjWbeYP63SAPNS8Ts.HNozj_dKjQZ59ZsfEegz8
+reddit.com##.ytp-pause-overlay-container
+# recommended sidebar
+reddit.com##.right-rail-tab-page-selected[slot="page-2"]
+# reddit.com###faceplate-tooltip
+reddit.com##span.contents[data-part="advertise"]
+# answers
+reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
+
+twitch.tv##.front-page-carousel
+twitch.tv##section#channel-player-disclosures
+twitch.tv##.tw-transition:has(> .top-bar)
+twitch.tv##div[data-a-target="player-controls"]:watch-attr(class):remove-class(player-controls)
+twitch.tv##.right-column__toggle-visibility
+twitch.tv##.video-manager-dmca-hint
+twitch.tv##footer
+#sub/bit marquee scroller - 10/25
+twitch.tv##div.Layout-sc-1xcs6mc-0:has(> div.DGdsv > div.DGdsv > div.jQPqnv > div.pMQwv > div.jWHzQH > div.hsXgFK > div.czNrFx > button.ScInteractableBase-sc-ofisyf-0.hGAIgs.tw-interactable > div.Layout-sc-1xcs6mc-0.gyHpt.marquee-animation)
+#hype chat / pinned cheer - 11/16
+twitch.tv##div.Layout-sc-1xcs6mc-0:has(> div > div.Layout-sc-1xcs6mc-0.paid-pinned-chat-message-list)
+#sub month recap on chat page - 1/31
+twitch.tv##div.Layout-sc-1xcs6mc-0.kbdfeJ:has(> div.etMEIA > article.kNyuUv > div.cLfLtl > div.TMVkh > div.jskmre > div.capulb > div.ScCalloutMessage-sc-23utpo-0.iWOciY.tw-callout-message > div.kBzdhm.tw-callout-message__header)
+#sub month recap on home / videos page 2/18
+twitch.tv##div.Layout-sc-1xcs6mc-0.ivrFkx:has(> article.kNyuUv > div.cLfLtl > div.TMVkh > div.jskmre > div.capulb > div.ScCalloutMessage-sc-23utpo-0.iWOciY.tw-callout-message > div.kBzdhm.tw-callout-message__header)
+#subtember ad
+twitch.tv##div.Layout-sc-1xcs6mc-0.itnkhV:has(> div.ScLayoutCssVars-sc-10awzi2-1.hecqoS > div.hGXNUW.subtember-gradient)
+#channels you follow in mod view - 11/12
+twitch.tv##div[data-highlight-selector="other-channels"] + div.ktLpvM
+#red dot on chat settings
+twitch.tv##div.Layout-sc-1xcs6mc-0.fncXjI:has(> div.ScNewItemIndicator-sc-1y46a3w-0.lfIZPg)
+#spam category
+twitch.tv##div:has(> div.find-me > div > h2 > a[href^="/directory/collection/"])
+#sponsored stream in sidebar - 7/20
+twitch.tv##div.side-nav-promoted-followed-card__gradient
+twitch.tv##div.side-nav-promoted-followed-card__sponsorship
+twitch.tv##img[alt="in collaboration with"]
+twitch.tv##img[alt="in collaboration with"] + div:has(> img)
+twitch.tv##.storiesLeftNavSection--csO9S
+twitch.tv##div.chat-shell:has(> div > div > section.chat-room > div > div > div > div > div.banned-chat-overlay__halt)
+
+youtube.com##.yt-bubble-hint-renderer
+youtube.com##.ytp-ce-element
+youtube.com##div#expandable-metadata.style-scope.ytd-watch-flexy:has(> ytd-expandable-metadata-renderer.style-scope.ytd-watch-flexy > div#header.style-scope.ytd-expandable-metadata-renderer > div#left-section.style-scope.ytd-expandable-metadata-renderer > div#thumbnail.style-scope.ytd-expandable-metadata-renderer)
+# ask gemini button and menu item 2025-09-09
+youtube.com##div#menu.style-scope.ytd-watch-metadata > ytd-menu-renderer.style-scope.ytd-watch-metadata > div#flexible-item-buttons.style-scope.ytd-menu-renderer:has(> yt-button-view-model.ytd-menu-renderer > button-view-model.ytSpecButtonViewModelHost.style-scope.ytd-menu-renderer > button.yt-spec-button-shape-next[aria-label="Ask"])
+youtube.com##div#contentWrapper.style-scope.tp-yt-iron-dropdown > ytd-menu-popup-renderer.style-scope.ytd-popup-container > tp-yt-paper-listbox#items.style-scope.ytd-menu-popup-renderer > ytd-menu-service-item-renderer.style-scope.ytd-menu-popup-renderer.iron-selected:has(> tp-yt-paper-item.style-scope.ytd-menu-service-item-renderer > yt-formatted-string.style-scope.ytd-menu-service-item-renderer:has-text(/^Ask/))
+# watch & play
+youtube.com##ytd-horizontal-card-list-renderer.style-scope.ytd-item-section-renderer:has(> div#dismissible.style-scope.ytd-horizontal-card-list-renderer > div#header-container.style-scope.ytd-horizontal-card-list-renderer > h2#header.style-scope.ytd-horizontal-card-list-renderer > ytd-rich-list-header-renderer.style-scope.ytd-horizontal-card-list-renderer > div.title-row.style-scope.ytd-rich-list-header-renderer > a.yt-simple-endpoint.style-scope.ytd-rich-list-header-renderer > div#image-container.style-scope.ytd-rich-list-header-renderer > div#title-text.style-scope.ytd-rich-list-header-renderer > span#title.style-scope.ytd-rich-list-header-renderer:has-text(/^Watch & Play$/))
+# AI summary in search results - 2026-03-05
+youtube.com##div#expandable-metadata.style-scope.ytd-video-renderer:has(> ytd-expandable-metadata-renderer.style-scope.ytd-video-renderer > div#header.style-scope.ytd-expandable-metadata-renderer > div#left-section.style-scope.ytd-expandable-metadata-renderer > div#prominent-collapsed-label.style-scope.ytd-expandable-metadata-renderer > yt-formatted-string#prominent-label-text.style-scope.ytd-expandable-metadata-renderer:has-text(/^Summary$/))
+
+youtube.com##div#video-summary
+youtube.com##yt-video-description-youchat-section-view-model.ytVideoDescriptionYouchatSectionViewModelHost
+
