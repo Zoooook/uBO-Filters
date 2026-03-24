@@ -117,6 +117,18 @@ mail.google.com##.aeO
 mail.google.com##.akc.aZ6
 mail.google.com##.brb
 mail.google.com##.w-MH
+# summarize this email - 2026-03-03
+mail.google.com##div.nH.a98.iY > div.nH:has(> div.einvLd > span.x4Und > div.FFw9Se-auk-Sb.afdZW > span.Rju2Ue-auk.Rju2Ue-auk-ql-JN > span > button.Rju2Ue-aoh.Rju2Ue-aoh-ql-KE.Rju2Ue-aoh-ql-KE-RO)
+# help preload - 2026-03-03
+mail.google.com##div.gb_Sd.gb_1d.gb_Le.gb_Ve.gb_1e > div.gb_v.gb_re.bGJ > a#lZwQje.gb_se.gb_h.gb_Ed:has(> img)
+# help - 2026-03-03
+mail.google.com##div.gb_Sd.gb_1d.gb_Le.gb_Ve.gb_1e > div.gb_v.gb_re.bGJ > div.zo
+# studio - 2026-03-03
+mail.google.com##div.gb_Sd.gb_1d.gb_Le.gb_Ve.gb_1e > div.gb_v.gb_re.bGJ > div.lRwCV
+# gemini - 2026-03-03
+mail.google.com##div.gb_Sd.gb_1d.gb_Le.gb_Ve.gb_1e > div.gb_v.gb_re.bGJ > div.Zmxtcf.e5IPTd
+# apps - 2026-03-03
+mail.google.com##div.gb_2d.gb_wb.gb_Sd.gb_4d > div.gb_Cd > div.gb_jd
 
 mail.yahoo.com###popover-selector
 mail.yahoo.com###ybarPoptart
@@ -125,6 +137,13 @@ mail.yahoo.com##.overlay
 mail.yahoo.com##.p_a Z_f8a
 mail.yahoo.com##.p_f.T_0.R_0.B_0.L_0.Z_3mRud.I_Zjpytw.D_F.ab_C gl_C
 mail.yahoo.com##.takeover
+
+# Gemini ad
+meet.google.com##div.KDbE6c:has(> i.quRWN-Bz112c):has(> div.oxwUde > div.ET9Qhb):has(> div.oxwUde > div.g5Lsrb):has(> span > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb > button.mUIrbf-LgbsSe.mUIrbf-LgbsSe-OWXEXe-dgl2Hf.mUIrbf-StrnGf-YYd4I-VtOx3e.Il839.jZkeEb.ckkN8b > span)
+meet.google.com##div:has(> div > footer.XQbXAb > div.eoEoM > i.quRWN-Bz112c.google-symbols.notranslate.HUBUOe):has(> div > footer.XQbXAb > div.eoEoM > div > a.DAA2Ae)
+# Gemini ad in meeting
+meet.google.com##div.YvIqNe:has(> div.pt8HRc.RTBkae > span > button.wX4xVc-Bz112c-LgbsSe.wX4xVc-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.gP9Sgd.lSuz7d > span.wX4xVc-Bz112c-kBDsod-Rtc0Jf > i.google-symbols.ebW6mc)
+meet.google.com##div.TZFSLb.a558Id.X2mOrf.P9KVBf:has(> span.bifLQe > div.zItlrb.xL0oje > div.GBMHM.Ti8zQb > div.TrPwfb):has(> span.bifLQe > div.zItlrb.xL0oje > div.GBMHM.Ti8zQb > div.nUcFIf > div > a.d2jxE):has(> span.bifLQe > div.zItlrb.xL0oje > div.Sxpqfb.Ti8zQb > span > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb > button.YUhpIc-LgbsSe.YUhpIc-LgbsSe-OWXEXe-SfQLQb-suEOdc.YUhpIc-LgbsSe-OWXEXe-dgl2Hf.YUhpIc-StrnGf-YYd4I-VtOx3e.YUhpIc-kSE8rc-FoKg4d-sLO9V-YoZ4jf.xNnXl.Ti8zQb > div.XDoBEd-JGcpL-MkD1Ye.YUhpIc-UdE5de-uDEFge > div.XDoBEd-JGcpL-P1ekSe.XDoBEd-JGcpL-P1ekSe-OWXEXe-A9y3zc.XDoBEd-JGcpL-P1ekSe-OWXEXe-xTMeO > div.XDoBEd-JGcpL-lMrXfd)
 
 pandora.com##.AppBg__img--rightRail:style(width: 100% !important)
 pandora.com##.DisplayAdController
@@ -154,6 +173,9 @@ reddit.com##.right-rail-tab-page-selected[slot="page-2"]
 reddit.com##span.contents[data-part="advertise"]
 # answers
 reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
+# link injection
+www.reddit.com##a[href^='/search/?q=']:style(color: rgb(183, 202, 212) !important; pointer-events: none; cursor: default; text-decoration: none !important; border: none !important)
+www.reddit.com##search-telemetry-tracker > search-telemetry-tracker > a > span:has(> svg)
 
 twitch.tv##.front-page-carousel
 twitch.tv##section#channel-player-disclosures
