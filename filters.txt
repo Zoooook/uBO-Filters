@@ -1,3 +1,5 @@
+! Title: Zzzoook's Annoyances
+
 amazon.com###ad
 amazon.com###universal-detail-ilm
 amazon.com##div[name="goKindleStaticPopDiv"]
