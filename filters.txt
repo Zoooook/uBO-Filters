@@ -115,6 +115,7 @@ mail.google.com##.aeO
 mail.google.com##.akc.aZ6
 mail.google.com##.brb
 mail.google.com##.w-MH
+
 mail.yahoo.com###popover-selector
 mail.yahoo.com###ybarPoptart
 mail.yahoo.com##.H_qg.X_0.o_h.A_6EqO.ab_C.p_R.D_ZKxLmw.v_g9505.cdPFi_Z281SGl.k_w.I4_ZpQYvz.bn_dBP.bm_FJ.bj_ZpQYvz.I_ZprBTp.I4_fj1WV
@@ -122,6 +123,22 @@ mail.yahoo.com##.overlay
 mail.yahoo.com##.p_a Z_f8a
 mail.yahoo.com##.p_f.T_0.R_0.B_0.L_0.Z_3mRud.I_Zjpytw.D_F.ab_C gl_C
 mail.yahoo.com##.takeover
+
+pandora.com##.AppBg__img--rightRail:style(width: 100% !important)
+pandora.com##.DisplayAdController
+pandora.com##.Extras:style(margin-top: 225px !important)
+pandora.com##.MiniBar--rightRail:style(width: 100% !important)
+pandora.com##.MyMusicRecentlyPlayed
+pandora.com##.OverlayWrapper__OverlayContainer
+pandora.com##.SearchModal--rightRail:style(margin-left: 0px !important)
+pandora.com##.overlay
+pandora.com##.region-bottomBar--rightRail:style(width: 100% !important)
+pandora.com##.region-main--rightRail:style(width: 100% !important)
+pandora.com##.region-topBar--rightRail:style(width: 100% !important)
+@@||pandora.com/static/ads/omsdk-v1_3/omweb-video-v1_3/omweb-v1-m.js
+@@||pandora.com/web-version/*/ads.json$1p
+https://www.pandora.com/api/v1/ad/getAdList
+https://www.pandora.com/api/v1/ad/registerImpression
 
 reddit.com##._1x6pySZ2CoUnAfsFhGe7J1
 reddit.com##div.x0hiXHicn7r3BG9m1FJH4._23q1waDr4n_2fR5A7zcZzb
