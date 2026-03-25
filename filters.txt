@@ -57,20 +57,9 @@ google.com##div#docs-sidekick-gen-ai-promo-button-container
 # AI answers - 2026-03-24
 google.com##div:has(> div > div.wQiwMc.related-question-pair > div.roMIYb.o3PDvf.HYvwY.oST1qe.g7pt6d.ilulF > div.bCOlv > div.IZE3Td > div.r2fjmd.t0bRye > div > div > div > div.XTvndd.k9pDj > div.hICk5e > div > div > div > div > div)
 # google.com##div:has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div > div.TLJWfb.GTERze > div > div > div.R0DW9c > div.vH6rvf.FJCJfd.IRx9Tb > div.Cswgi.sjVJQd.rNHry > div.Urm71 > div > div > div):has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div.bCOlv > div.IZE3Td > div > div > div.XTvndd.k9pDj > div.AQisZb > div > div.hICk5e > div.G3toM > div > div > div.OZ9ddf.GkDqAd > div > div.nk9vdc.GYaNDc > span.YWpX0d > span):has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div.bCOlv > div.IZE3Td > div > div > div.XTvndd.k9pDj > div.AQisZb > div > div.hICk5e > div.lJyoBc > div > div.MBttkb > div > div.aPfNm > div > div.p2M1Qe.scm-c.YzCcne.PZPZlf > div.f5cPye > div.WaaZC > div.rPeykc > span)
-# AI overviews
-# google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div > div.YNk70c.EjQTId > div > div > div.q8sySb > div.YzCcne > div.hdzaWe > div > div > div > div.h7Tj7e > div.D5ad8b > div.X6JNf > div.s7d4ef > div.s7d4ef > div.OZ9ddf.GkDqAd.WAUd4.RK5Kkf)
-# google.com##div:has(> div > div.q8sySb > div.YzCcne > div.hdzaWe > div > div > div > div.h7Tj7e > div.D5ad8b > div.X6JNf > div.s7d4ef > div.s7d4ef > div.OZ9ddf.GkDqAd.WAUd4.RK5Kkf)
-# google.com##div:has(> div > div.olrp5b > a.XVMlrc.C6AK7c > div.mXwfNd > div.mVH5Fc > span.R1QWuf)
-# AI overview - 2026-01-26
-google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div > div.YNk70c.EjQTId > div > div > div#eKIzJc)
-google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div > div > div#eKIzJc)
-# AI overview - 2026-02-02
-google.com##div.ULSxyf:has(> div.MjjYud > div#eKIzJc > div.YzCcne > div.hdzaWe > div.EyBRub.jUja0e)
-# AI overview - 2026-03-24
-google.com##div.SLPe5b:has(> div.XqFnDf > div > div > div.YzCcne > div.hdzaWe > div.EyBRub.jUja0e)
+
 # Result categories - 2025-08-02
 google.com##div:has(> a.C6AK7c > div.mXwfNd > span.R1QWuf:has-text(/^[Short videos|Shopping]/))
-
 # Shopping + AI overview
 google.com##div.xfX4Ac.JI5uCe.qB9BY.yWNJXb.qzPQNd:has(> div > div.JCZQSb > div > div > div.em0bhd.EyBRub > div.J5apLe.mnr-c.dZzA0c > div > div > product-viewer-group > g-card.tkfIqc.wHYlTd):has(> div > div.JCZQSb > div > div > div.em0bhd.EyBRub > div.op3jbb > div.Q9lB1d > div.Fjacjc > div.YzCcne > div > div > div > div > div > div)
 # AI mode - 2026-01-26
@@ -98,6 +87,21 @@ google.com##div#lb.gTMtLb.OLKT8d
 google.com##div.kb0PBd.A9Y9g:has(> div > div > div > div.MfkhVb.XNfAUb > div.RyIFgf > div.EDblX.HG5ZQb > div.VXqlzf.XRVJtc.x3A3gd.CLLuUd.rEzOad > div.VqeGe > div.THl5qe.p7bv.wYFOId > div.hoFhsb.EXH1Ce > div.ORij0c.vqseUe > a.LVegBe > span.z1asCe.GNeCNe > svg  > path)
 # AI blurb at top - 2026-02-18
 google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd.EyBRub > div > div.kJSB8 > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV > div.D7ethf.CYJS5e.QejDDf.SodP3b.GHMsie.o6dXvc > div.wDYxhc > div > div.sxWgqf)
+
+# AI overviews
+# google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div > div.YNk70c.EjQTId > div > div > div.q8sySb > div.YzCcne > div.hdzaWe > div > div > div > div.h7Tj7e > div.D5ad8b > div.X6JNf > div.s7d4ef > div.s7d4ef > div.OZ9ddf.GkDqAd.WAUd4.RK5Kkf)
+# google.com##div:has(> div > div.q8sySb > div.YzCcne > div.hdzaWe > div > div > div > div.h7Tj7e > div.D5ad8b > div.X6JNf > div.s7d4ef > div.s7d4ef > div.OZ9ddf.GkDqAd.WAUd4.RK5Kkf)
+# google.com##div:has(> div > div.olrp5b > a.XVMlrc.C6AK7c > div.mXwfNd > div.mVH5Fc > span.R1QWuf)
+# AI overview - 2026-01-26
+google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div > div.YNk70c.EjQTId > div > div > div#eKIzJc)
+google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div > div > div#eKIzJc)
+# AI overview - 2026-02-02
+google.com##div.ULSxyf:has(> div.MjjYud > div#eKIzJc > div.YzCcne > div.hdzaWe > div.EyBRub.jUja0e)
+# AI overview - 2026-03-24
+google.com##div.SLPe5b:has(> div.XqFnDf > div > div > div.YzCcne > div.hdzaWe > div.EyBRub.jUja0e)
+# AI overview - 2026-03-25
+google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd.EyBRub > div > div > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV > div.D7ethf.CYJS5e.QejDDf.SodP3b.GHMsie.o6dXvc > div.wDYxhc > div > div > div > div)
+google.com##div#rcnt > div.SLPe5b:has(~ div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd.EyBRub > div > div > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV > div.D7ethf.CYJS5e.QejDDf.SodP3b.GHMsie.o6dXvc > div.wDYxhc > div > div > div > div))
 
 instagram.com##nav
 instagram.com##footer
