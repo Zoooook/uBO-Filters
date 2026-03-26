@@ -20,7 +20,8 @@ atlassian.net##button#po-spotlight-share-button
 # apps / share dropdowns
 atlassian.net##div._19pkidpf._2hwx1b66:has(> button.css-m2h7i3 > span.css-178ag6o:has-text(/^(Apps|Share)$/))
 # useless headers
-atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro|Shortcuts)$/))
+atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro)$/))
+atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div._2rko12b0._1rjc1b66 > div._1ul91ris > button._19pkidpf._2hwxidpf:has-text(/Shortcuts/))
 atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > div > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^Pages$/))
 # "more" header
 atlassian.net##nav._zulp1y44._1e0c1txw > div._16jlidpf._1o9zidpf._i0dl1wug:has(> div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div._2rko12b0._1rjc1b66 > div._1ul91ris > button._19pkidpf._2hwxidpf:has-text(/^More/))
