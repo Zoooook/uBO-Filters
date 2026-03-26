@@ -25,6 +25,10 @@ discord.com##li.messageListItem__6a4fb > div > div > img[src*="gif"]
 
 # ads - 2025-08-04
 docs.google.com##div:has(> div > div.docs-promo-container)
+# gemini - 2026-03-36
+docs.google.com##div.FormulaBarContainerGeminiSummarizeButton
+docs.google.com##div#docs-sidekick-button-container
+docs.google.com##div#docs-gemini-menu
 
 # Gemini button - 2025-09-07
 drive.google.com##div#bPjCde.gb_se.gb_re:has(> div.a-OkO9ve-gAsIFc.a-OkO9ve-Qs0SX-yp5uJf.Hb-ja-Na > div.x9V2O > div > div.fkkwSc.e5IPTd > div.VOYwb.wUn25c > div.lWI5Pb)
