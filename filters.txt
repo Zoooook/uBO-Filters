@@ -7,6 +7,8 @@ amazon.com##.celwidget.c-f[cel_widget_id="cr-product-insights_customer-reviews-p
 # rufus
 amazon.com##div#ppd > div#leftCol > div#imageBlock_feature_div + div#nile-inline_feature_div.celwidget
 
+app.snowflake.com##div.cm-tooltip-autocomplete
+
 # switch sites or apps / jira homepage
 atlassian.net##div._vchhusvi._bozgutpp._4t3i1osq > div._zulp1b66._yyhykb7n > div._zulp1kw7._1e0c1kw7:has(> div > button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path):has(> div._19itglyw._vchhusvi > a._ymio1r31._ypr0glyw > div._1e0c1txw._vchhusvi > span._1bsb1ris._p12fnklw > span > span._19pkidpf._2hwxidpf:has-text(/^Jira$/))
 # ask rovo
@@ -233,6 +235,8 @@ reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
 # link injection
 www.reddit.com##a[href^='/search/?q=']:style(color: rgb(183, 202, 212) !important; pointer-events: none; cursor: default; text-decoration: none !important; border: none !important)
 www.reddit.com##search-telemetry-tracker > search-telemetry-tracker > a > span:has(> svg)
+
+slack.com##div[role="presentation"]:watch-attr(class):remove-class(c-message_kit__hidden_message_blur)
 
 twitch.tv##.front-page-carousel
 twitch.tv##section#channel-player-disclosures
