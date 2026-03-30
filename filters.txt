@@ -39,6 +39,10 @@ atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > div._1e0c1txw
 atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > span.css-8bfqlc:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
 # more actions (start standup)
 atlassian.net##div.css-1uolfdd > div.css-u345ti > div:has(> span.css-8bfqlc:first-child > button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
+# similar work items
+atlassian.net##div._1pbyidpf._kqswh2mm:has(> div.css-1x9izq5 > div[data-testid='ai-proactive-container.ai-container'])
+# improve description
+atlassian.net##div._19itglyw._vchhusvi:has(> div.show-above-lg > div._19itglyw._vchhusvi > div._19pe12x7._1qq0idpf._3nesidpf > div > button._ymio1r31._ypr0glyw > span[aria-label='Ask Rovo']):has(> div.show-above-lg > div._19itglyw._vchhusvi > button[aria-label='Improve description'])
 # type /ai prompt
 atlassian.net##div.akEditor > div.css-sox1a6 > div.ak-editor-content-area > div.ProseMirror.ua-chrome > p > span.placeholder-decoration.ProseMirror-widget:has-text(/^Type/)
 # share
