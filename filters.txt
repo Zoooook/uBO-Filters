@@ -329,9 +329,11 @@ wikipedia.org##.mwe-popups
 youtube.com##.yt-bubble-hint-renderer
 youtube.com##.ytp-ce-element
 youtube.com##div#expandable-metadata.style-scope.ytd-watch-flexy:has(> ytd-expandable-metadata-renderer.style-scope.ytd-watch-flexy > div#header.style-scope.ytd-expandable-metadata-renderer > div#left-section.style-scope.ytd-expandable-metadata-renderer > div#thumbnail.style-scope.ytd-expandable-metadata-renderer)
-# ask gemini button and menu item 2025-09-09
+# ask gemini button and menu item - 2025-09-09
 youtube.com##div#menu.style-scope.ytd-watch-metadata > ytd-menu-renderer.style-scope.ytd-watch-metadata > div#flexible-item-buttons.style-scope.ytd-menu-renderer:has(> yt-button-view-model.ytd-menu-renderer > button-view-model.ytSpecButtonViewModelHost.style-scope.ytd-menu-renderer > button.yt-spec-button-shape-next[aria-label="Ask"])
 youtube.com##div#contentWrapper.style-scope.tp-yt-iron-dropdown > ytd-menu-popup-renderer.style-scope.ytd-popup-container > tp-yt-paper-listbox#items.style-scope.ytd-menu-popup-renderer > ytd-menu-service-item-renderer.style-scope.ytd-menu-popup-renderer.iron-selected:has(> tp-yt-paper-item.style-scope.ytd-menu-service-item-renderer > yt-formatted-string.style-scope.ytd-menu-service-item-renderer:has-text(/^Ask/))
+# ask gemini button in full screen - 2026-03-30
+youtube.com##button-view-model.ytSpecButtonViewModelHost.you-chat-entrypoint-button
 # watch & play
 youtube.com##ytd-horizontal-card-list-renderer.style-scope.ytd-item-section-renderer:has(> div#dismissible.style-scope.ytd-horizontal-card-list-renderer > div#header-container.style-scope.ytd-horizontal-card-list-renderer > h2#header.style-scope.ytd-horizontal-card-list-renderer > ytd-rich-list-header-renderer.style-scope.ytd-horizontal-card-list-renderer > div.title-row.style-scope.ytd-rich-list-header-renderer > a.yt-simple-endpoint.style-scope.ytd-rich-list-header-renderer > div#image-container.style-scope.ytd-rich-list-header-renderer > div#title-text.style-scope.ytd-rich-list-header-renderer > span#title.style-scope.ytd-rich-list-header-renderer:has-text(/^Watch & Play$/))
 # AI summary in search results - 2026-03-05
