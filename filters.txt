@@ -55,6 +55,8 @@ atlassian.net##span.acronym-highlight:style(background: none !important; border-
 atlassian.net##div.atlaskit-portal:has(> div._1e0c1bgi > div._1pbyowjs > div._19itglyw._vchhusvi._r06hglyw._kqswh2mm)
 # ask AI in search
 atlassian.net##div.css-r3erbb > div.css-1y9f6yn > div._1e0c1txw._16jlkb7n > div.css-1cens82 > div.css-vwxchz:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq > div.css-1mglu86:has-text(/^Ask AI$/))
+# ask rovo button
+atlassian.net##div._1reoewfl._18m9ewfl:has(> div._19itglyw._vchhusvi > div._19itglyw._vchhusvi > div._1e0c1txw._vchhusvi > div > div._2rko1tm3._v564s58n > button._ymio1r31._ypr0glyw > span._ca0qidpf._u5f3idpf:has-text(/^Open Rovo Chat$/))
 
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
