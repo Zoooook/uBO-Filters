@@ -53,7 +53,7 @@ let checked = false;
       button9.click();
       console.log('dismiss clip nagger');
     }
-    let span10 = document.querySelector("div > div.hOlFJ > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.ozBVK.chat-private-callout__header-segment > div > span.klMfey");
+    let span10 = document.querySelector("div > div.hOlFJ > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.ozBVK.chat-private-callout__header-segment > div > span");
     if (span10 && span10.innerText === 'Keep watching this stream to save your Streak!') {
       let button10 = document.querySelector("div > div.hOlFJ > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.ozBVK.chat-private-callout__header-segment > div.doBHR > div.jfyitl > button.iwMIba[aria-label='Close']");
       if (button10) {
@@ -61,12 +61,12 @@ let checked = false;
         console.log('dismiss watch streak nagger');
       }
     }
-    let button11 = document.querySelector("div:has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.gYZUoi.chat-private-callout__icon > div.btRJVu.reward-icon.reward-icon--extra-small > div.ihSefD.reward-icon__image.reward-icon__image--extra-small > div.AoXTY > img):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.ozBVK.chat-private-callout__header-segment > div > span.klMfey > div > div.buczjK > div.fGzbCC):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div.hOPRsN > div.jfyitl > button > div > div):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.cexlzi > div.jfyitl > div.loPPQD.eVfydX.tw-progress-bar > div.cireTk) > div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div.doBHR > div.jfyitl > button[aria-label='Close']:has(> div.kVXKNj > div.kccyMt.tw-svg > svg > path)");
+    let button11 = document.querySelector("div:has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.gYZUoi.chat-private-callout__icon > div.btRJVu.reward-icon.reward-icon--extra-small > div.ihSefD.reward-icon__image.reward-icon__image--extra-small > div.AoXTY > img):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.ozBVK.chat-private-callout__header-segment > div > span > div > div.buczjK > div.fGzbCC):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div.hOPRsN > div.jfyitl > button > div > div):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.cexlzi > div.jfyitl > div.loPPQD.eVfydX.tw-progress-bar > div.cireTk) > div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div.doBHR > div.jfyitl > button[aria-label='Close']:has(> div.kVXKNj > div.kccyMt.tw-svg > svg > path)");
     if (button11) {
       button11.click();
       console.log('dismiss channel point nagger');
     }
-    let button12 = document.querySelector("div > div.hOlFJ.tw-transition > div > div.bTkUWo > div:has(> div.hDlHnO > div.ozBVK.chat-private-callout__header-segment > div > span.klMfey):has(> div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div > div.jfyitl.cIQTKJ > button.evvsZQ.iwMIba > div.kVXKNj > div.kccyMt.tw-svg > svg > path):has(> div.cexlzi > div.jfyitl.cIQTKJ > div.loPPQD.eVfydX.tw-progress-bar > div) > div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div.hOPRsN > div.jfyitl.cIQTKJ > button[aria-label='Close']:has(> div.kaIUar > div)");
+    let button12 = document.querySelector("div > div.hOlFJ.tw-transition > div > div.bTkUWo > div:has(> div.hDlHnO > div.ozBVK.chat-private-callout__header-segment > div > span):has(> div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div > div.jfyitl.cIQTKJ > button.evvsZQ.iwMIba > div.kVXKNj > div.kccyMt.tw-svg > svg > path):has(> div.cexlzi > div.jfyitl.cIQTKJ > div.loPPQD.eVfydX.tw-progress-bar > div) > div.hDlHnO > div.kvrzxX.chat-private-callout__header-segment > div.hOPRsN > div.jfyitl.cIQTKJ > button[aria-label='Close']:has(> div.kaIUar > div)");
     if (button12) {
       button12.click();
       console.log('close chat injection');
