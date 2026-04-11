@@ -304,16 +304,14 @@ twitch.tv##div.gmbpwB > div.fHdBNk > div.kaAEut:has(> div.iDMNUO > div.kOoFSj > 
 twitch.tv##div.kFLrqZ:has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.dbgLWR > div.gjMevQ):has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.dbgLWR > div.halyyv > div.goosYB):has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.learn-more-button > a.gGttfb > div.kaIUar > div.bLZXTb)
 # viral clip ad in chat 2025-10-25
 # twitch.tv##div:has(> div.Akwmp > div.lkDtpE > div > div.cpWPwm > div.lkDtpE > div.jubumC > div.ircmYD > div > div > div.gwQEvr > div.cCaZpv > div.dtSdDz > div.bKvgvG > div.iHlRfk > div.dKitkM > div > p.iLuWTx)
-# notifications button - 2025-12-02
-twitch.tv##div.kCBkGE:has(> div > div.live-notifications__btn > div > button.cAajJv > div.kaIUar > div.bLZXTb > div.ceVcik > div.ASUul > div.ckYenn.tw-animation > div.ceVcik > div.iDMNUO > figure.iozBbY.tw-svg > svg.dzvvut > g > path)
 # mod ad break actions
 twitch.tv##div:has(> div.iGRgSf.tw-transition > div.dBppLj.monetization--mI_wc.expanded--el4qz > div.bRYBYC > div.hfZTex > div.kvjacc.body--gsdVN > div.cFDvNh > div.ipRTld > div.jfyitl.TtKWF > button.eoyBQj > div.kaIUar > div.bLZXTb)
 # promoted stream in sidebar - 2025-12-08
 twitch.tv##div.tw-transition:has(> div > div.side-nav-card > a.side-nav-card__link--promoted-followed)
 # notification nagging in stream - 2026-02-14
 twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm):has(> div.cexlzi > div.ggvZjN > div.eOHCrm > div.dPMgk > div.cBCBY > div > div.iglnKI > div.dCFkna > button.yezmM > div.kaIUar > div.bLZXTb > div.ceVcik > div.kxAWvZ > div.dsEeIO.tw-animation > div.ceVcik > div.iDMNUO > div.dVDUDh.tw-svg > svg > path):has(> div.cexlzi > div.ggvZjN > div.eOHCrm > div.kCBkGE > div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.ljigeK > div.dVDUDh.tw-svg > svg > path):has(> div.cexlzi > div.ggvZjN > div.eOHCrm > div.kCBkGE > div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.kvrzxX > div.fsazhJ.tw-core-button-icon > div.kccyMt.tw-svg > svg > path)
-# notification button when other than personalized - 2026-02-14
-twitch.tv##div.kCBkGE:has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.kvrzxX > div.fsazhJ.tw-core-button-icon > div.kccyMt.tw-svg > svg > path):has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.ljigeK > div.dVDUDh.tw-svg > svg > path + path)
+# notification button when other than personalized - 2026-04-10
+twitch.tv##div.kCBkGE:has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div > div.kvrzxX > div.tw-core-button-icon > div.kccyMt.tw-svg > svg > path):has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div > div > div.dVDUDh.tw-svg > svg > path + path)
 # combos in chat - 2026-02-17
 twitch.tv##div:has(> div.eCiQQE > div.eynKOr > div.jKChow > div.ckOOIf > img)
 # notification nagging on offline stream - 2026-03-15
