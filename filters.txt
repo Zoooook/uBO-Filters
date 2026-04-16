@@ -9,58 +9,34 @@ amazon.com##div#ppd > div#leftCol > div#imageBlock_feature_div + div#nile-inline
 
 app.snowflake.com##div.cm-tooltip-autocomplete
 
-# switch sites or apps / jira homepage
-atlassian.net##div._vchhusvi._bozgutpp._4t3i1osq > div._zulp1b66._yyhykb7n > div._zulp1kw7._1e0c1kw7:has(> div > button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path):has(> div._19itglyw._vchhusvi > a._ymio1r31._ypr0glyw > div._1e0c1txw._vchhusvi > span._1bsb1ris._p12fnklw > span > span._19pkidpf._2hwxidpf:has-text(/^Jira$/))
-# ask rovo
-atlassian.net##nav._yyhy11wp._1e0c1txw > div._zulp1b66._4cvr1h6o._1e0cglyw._181n1txw > span._19itglyw._vchhusvi._r06hglyw
-# link contributing teams
-atlassian.net##div.css-twdxlp > div.css-959bd3 > div._fsjd4zrn._nwukvy9e._2hwx12x7:has(> button.css-190e7fx > span._1e0c1o8l._vchhusvi > svg > path)
-# share button
+atlassian.net##div._zulp1kw7._1e0c1kw7:has(> div > button > span > span:has-text(/^$Switch sites or apps/)):has(> div > a > div > span > span > span:has-text(/^Jira$/))
+atlassian.net##span._19itglyw._vchhusvi._r06hglyw:has(> div > button > span:has-text(/^Ask Rovo$/))
+atlassian.net##div._fsjd4zrn._nwukvy9e._2hwx12x7:has(> button[aria-label='Link contributing teams'])
 atlassian.net##button#po-spotlight-share-button
-# apps / share dropdowns
-atlassian.net##div._19pkidpf._2hwx1b66:has(> button.css-m2h7i3 > span.css-178ag6o:has-text(/^(Apps|Share)$/))
-# useless headers
-atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro|SprintRetro)$/))
-atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div._1rjc1b66 > div._1ul91ris > button._19pkidpf._2hwxidpf:has-text(/Shortcuts/))
-atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > div > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^Pages$/))
-# "more" header
-atlassian.net##nav._zulp1y44._1e0c1txw > div._16jlidpf._1o9zidpf._i0dl1wug:has(> div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div._2rko12b0._1rjc1b66 > div._1ul91ris > button._19pkidpf._2hwxidpf:has-text(/^More/))
-# backlog insights / more actions (configure board)
-atlassian.net##div._16jlkb7n._1o9zkb7n._i0dl1wug._4cvr1y6m._18u01wug._1e0c1txw._1bahesu3._10m4idpf._1vdkkb7n._1wzn1wug > div._1e0c1txw._vchhusvi._gy1pu2gc._1p57u2gc._4cvr1h6o._1bahh9n0 > span:has(> button)
-# complete sprint in backlog
-atlassian.net##div.css-1fwubm7 > div._1yt4fbi0._16jlkb7n > ul._qtt8glyw._19pkidpf > li._19pkidpf._2hwxidpf > div._2rkodhec._1ul9cs0k > div._kqswh2mm > div.css-aezhvn > div.css-esiu7l > div.css-6uyqmb > div.css-wjqh11:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq:has-text(/^Complete sprint$/))
-# start sprint in backlog
-atlassian.net##div.css-1fwubm7 > div._1yt4fbi0._16jlkb7n > ul._qtt8glyw._19pkidpf > li._19pkidpf._2hwxidpf > div._2rkodhec._1ul9cs0k > div._kqswh2mm > div.css-aezhvn > div.css-esiu7l > div.css-6uyqmb > div.css-wjqh11:has(> div.css-6cu6fo > button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq:has-text(/^Start sprint$/))
-# complete sprint in active sprints
-atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > div._zulpu2gc._1e0c1txw._1bah1h6o._4cvr1h6o > span:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq:has-text(/^Complete sprint$/))
-# group
-atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > div._1e0c1txw._4cvr1h6o:has(> div > button._1qt3kjry._1g9h1tex > span.css-178ag6o > div.css-1h53q9j > span:has-text(/^Group/))
-# sprint insights
-atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > span:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
-# more actions (start standup)
-atlassian.net##div.css-1uolfdd > div.css-u345ti > div:has(> span:first-child > button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
+# atlassian.net##div._19pkidpf._2hwx1b66:has(> button > span:has-text(/^(Apps|Share)$/))
+atlassian.net##li._qtt8glyw._19pkidpf:has(> div > div > div > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro|SprintRetro|Pages)$/))
+atlassian.net##li._qtt8glyw._19pkidpf:has(> div > div > div > div > button:has-text(/^Shortcuts$/))
+atlassian.net##div._16jlidpf._1o9zidpf._i0dl1wug:has(> div > div > div > div > button:has-text(/^More/))
+atlassian.net##div._16jlkb7n._1o9zkb7n > div > span:has(> button > span > span:has-text(/^(Backlog insights|More actions)$/))
+atlassian.net##div.css-wjqh11:has(> button > span:has-text(/^Complete sprint$/))
+atlassian.net##div.css-wjqh11:has(> div > button > span:has-text(/^Start sprint$/))
+atlassian.net##span._1e0c116y._p12f1osq:has(> button > span:has-text(/^Complete sprint$/))
+atlassian.net##div._1e0c1txw._4cvr1h6o:has(> div > button > span > div > span:has-text(/^Group/))
+atlassian.net##span._1e0c116y._p12f1osq:has(> button > span > span:has-text(/^(Sprint insights|More actions)$/))
 # similar work items
-atlassian.net##div._1pbyidpf._kqswh2mm:has(> div.css-1x9izq5 > div[data-testid='ai-proactive-container.ai-container'])
-# improve description
-atlassian.net##div._19itglyw._vchhusvi:has(> div.show-above-lg > div._19itglyw._vchhusvi > div._19pe12x7._1qq0idpf._3nesidpf > div > button._ymio1r31._ypr0glyw > span[aria-label='Ask Rovo']):has(> div.show-above-lg > div._19itglyw._vchhusvi > button[aria-label='Improve description'])
-# type /ai prompt
-atlassian.net##div.akEditor > div.css-sox1a6 > div.ak-editor-content-area > div.ProseMirror.ua-chrome > p > span.placeholder-decoration.ProseMirror-widget:has-text(/^Type/)
-# share
-atlassian.net##div._1o9zidpf:has(> div > button#share-trigger-btn.css-47uhjk > span.css-bwxjrz > span._1e0c1o8l._vchhusvi > svg._1reo15vq._18m915vq > path)
-# view app actions
-atlassian.net##div:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._ca0qidpf._u5f3idpf:has-text(/^View app actions$/))
-# automation
-atlassian.net##div._n3tdutpp._1e0c116y:has(> div.css-1b1skvc > button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg._1reo15vq._18m915vq > path)
-# improve Story
-atlassian.net##div.css-1v7t3m0:has(> div.css-a6kac4 > div > button.css-m2h7i3 > span:has-text(/^Improve/))
+atlassian.net##div._1pbyidpf._kqswh2mm:has(> div > div[data-testid='ai-proactive-container.ai-container'])
+atlassian.net##div._19itglyw._vchhusvi:has(> div > div > div > div > button > span[aria-label='Ask Rovo']):has(> div > div > button[aria-label='Improve description'])
+atlassian.net##div.ak-editor-content-area > div.ProseMirror.ua-chrome > p > span:has-text(/^Type \/ai/)
+atlassian.net##div._1o9zidpf:has(> button > span > span:has-text(/^Share$/))
+atlassian.net##div[role='presentation']:has(> button._ymio1r31._ypr0glyw > span > span:has-text(/^View app actions$/))
+atlassian.net##div._n3tdutpp._1e0c116y:has(> div > button > span > span:has-text(/^Automation$/))
+atlassian.net##div.css-1v7t3m0:has(> div > div > button > span:has-text(/^Improve Story$/))
 # AI highlight
 atlassian.net##span.acronym-highlight:style(background: none !important; border-image: none !important; border-width: 0px !important; border-bottom-style: none !important; cursor: inherit !important)
 # AI popup
 atlassian.net##div.atlaskit-portal:has(> div._1e0c1bgi > div._1pbyowjs > div._19itglyw._vchhusvi._r06hglyw._kqswh2mm)
-# ask AI in search
-atlassian.net##div.css-r3erbb > div.css-1y9f6yn > div._1e0c1txw._16jlkb7n > div.css-1cens82 > div.css-vwxchz:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq > div.css-1mglu86:has-text(/^Ask AI$/))
-# ask rovo button
-atlassian.net##div._1reoewfl._18m9ewfl:has(> div._19itglyw._vchhusvi > div._19itglyw._vchhusvi > div._1e0c1txw._vchhusvi > div > div._2rko1tm3._v564s58n > button._ymio1r31._ypr0glyw > span._ca0qidpf._u5f3idpf:has-text(/^Open Rovo Chat$/))
+atlassian.net##div.css-vwxchz:has(> button > span > div:has-text(/^Ask AI$/))
+atlassian.net##div._1reoewfl._18m9ewfl:has(> div > div > div > div > div > button > span:has-text(/^Open Rovo Chat$/))
 
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
