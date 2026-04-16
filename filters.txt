@@ -20,25 +20,25 @@ atlassian.net##button#po-spotlight-share-button
 # apps / share dropdowns
 atlassian.net##div._19pkidpf._2hwx1b66:has(> button.css-m2h7i3 > span.css-178ag6o:has-text(/^(Apps|Share)$/))
 # useless headers
-atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro)$/))
-atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div._2rko12b0._1rjc1b66 > div._1ul91ris > button._19pkidpf._2hwxidpf:has-text(/Shortcuts/))
+atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro|SprintRetro)$/))
+atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > li._qtt8glyw._19pkidpf:has(> div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div._1rjc1b66 > div._1ul91ris > button._19pkidpf._2hwxidpf:has-text(/Shortcuts/))
 atlassian.net##nav._zulp1y44._1e0c1txw > ul._zulp1y44._1reo15vq > div > li._qtt8glyw._19pkidpf:has(> div > div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div > a > span:has-text(/^Pages$/))
 # "more" header
 atlassian.net##nav._zulp1y44._1e0c1txw > div._16jlidpf._1o9zidpf._i0dl1wug:has(> div._qdn51txw._1ifwglyw > div._kqswh2mm._1pbykb7n > div._2rko12b0._1rjc1b66 > div._1ul91ris > button._19pkidpf._2hwxidpf:has-text(/^More/))
 # backlog insights / more actions (configure board)
-atlassian.net##div._16jlkb7n._1o9zkb7n._i0dl1wug._4cvr1y6m._18u01wug._1e0c1txw._1bahesu3._10m4idpf._1vdkkb7n._1wzn1wug > div._1e0c1txw._vchhusvi._gy1pu2gc._1p57u2gc._4cvr1h6o._1bahh9n0 > span.css-8bfqlc:has(> button)
+atlassian.net##div._16jlkb7n._1o9zkb7n._i0dl1wug._4cvr1y6m._18u01wug._1e0c1txw._1bahesu3._10m4idpf._1vdkkb7n._1wzn1wug > div._1e0c1txw._vchhusvi._gy1pu2gc._1p57u2gc._4cvr1h6o._1bahh9n0 > span:has(> button)
 # complete sprint in backlog
 atlassian.net##div.css-1fwubm7 > div._1yt4fbi0._16jlkb7n > ul._qtt8glyw._19pkidpf > li._19pkidpf._2hwxidpf > div._2rkodhec._1ul9cs0k > div._kqswh2mm > div.css-aezhvn > div.css-esiu7l > div.css-6uyqmb > div.css-wjqh11:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq:has-text(/^Complete sprint$/))
 # start sprint in backlog
 atlassian.net##div.css-1fwubm7 > div._1yt4fbi0._16jlkb7n > ul._qtt8glyw._19pkidpf > li._19pkidpf._2hwxidpf > div._2rkodhec._1ul9cs0k > div._kqswh2mm > div.css-aezhvn > div.css-esiu7l > div.css-6uyqmb > div.css-wjqh11:has(> div.css-6cu6fo > button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq:has-text(/^Start sprint$/))
 # complete sprint in active sprints
-atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > div._zulpu2gc._1e0c1txw._1bah1h6o._4cvr1h6o > span.css-8bfqlc:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq:has-text(/^Complete sprint$/))
+atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > div._zulpu2gc._1e0c1txw._1bah1h6o._4cvr1h6o > span:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1reo15vq:has-text(/^Complete sprint$/))
 # group
 atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > div._1e0c1txw._4cvr1h6o:has(> div > button._1qt3kjry._1g9h1tex > span.css-178ag6o > div.css-1h53q9j > span:has-text(/^Group/))
 # sprint insights
-atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > span.css-8bfqlc:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
+atlassian.net##div.css-1uolfdd > div.css-u345ti > div.css-ew56fo > span:has(> button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
 # more actions (start standup)
-atlassian.net##div.css-1uolfdd > div.css-u345ti > div:has(> span.css-8bfqlc:first-child > button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
+atlassian.net##div.css-1uolfdd > div.css-u345ti > div:has(> span:first-child > button._ymio1r31._ypr0glyw > span._v564g17y._1e0c1txw > span._1e0c1o8l._vchhusvi > svg > path)
 # similar work items
 atlassian.net##div._1pbyidpf._kqswh2mm:has(> div.css-1x9izq5 > div[data-testid='ai-proactive-container.ai-container'])
 # improve description
