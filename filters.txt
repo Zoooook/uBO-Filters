@@ -95,6 +95,8 @@ google.com##div.BxcCLb.YzCcne:has(> div.Llv6V > div.K0MpIf)
 google.com##div#docs-sidekick-gen-ai-promo-button-container
 # AI answers - 2026-03-24
 google.com##div:has(> div > div.wQiwMc.related-question-pair > div.roMIYb.o3PDvf.HYvwY.oST1qe.g7pt6d.ilulF > div.bCOlv > div.IZE3Td > div.r2fjmd.t0bRye > div > div > div > div.XTvndd.k9pDj > div.hICk5e > div > div > div > div > div)
+# things to know - 2026-04-15
+google.com##div.ULSxyf:has(> div.MjjYud > div > div > div > div.YViDd > div > div > div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.cS7M8.XBlWIe.VZ8ove.h373nd > div.bCOlv)
 # google.com##div:has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div > div.TLJWfb.GTERze > div > div > div.R0DW9c > div.vH6rvf.FJCJfd.IRx9Tb > div.Cswgi.sjVJQd.rNHry > div.Urm71 > div > div > div):has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div.bCOlv > div.IZE3Td > div > div > div.XTvndd.k9pDj > div.AQisZb > div > div.hICk5e > div.G3toM > div > div > div.OZ9ddf.GkDqAd > div > div.nk9vdc.GYaNDc > span.YWpX0d > span):has(> div.EyBRub > div.vRy7rc > div.trNcde > div.o3PDvf.XBlWIe.VZ8ove.h373nd > div.bCOlv > div.IZE3Td > div > div > div.XTvndd.k9pDj > div.AQisZb > div > div.hICk5e > div.lJyoBc > div > div.MBttkb > div > div.aPfNm > div > div.p2M1Qe.scm-c.YzCcne.PZPZlf > div.f5cPye > div.WaaZC > div.rPeykc > span)
 
 # Result categories - 2025-08-02
