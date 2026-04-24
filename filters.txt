@@ -6,6 +6,7 @@ amazon.com##div[name="goKindleStaticPopDiv"]
 amazon.com##.celwidget.c-f[cel_widget_id="cr-product-insights_customer-reviews-product-insights_0"]
 # rufus
 amazon.com##div#ppd > div#leftCol > div#imageBlock_feature_div + div#nile-inline_feature_div.celwidget
+amazon.com##div#rufus-ask-rufus-tooltip
 
 app.snowflake.com##div.cm-tooltip-autocomplete
 
