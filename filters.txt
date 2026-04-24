@@ -14,7 +14,7 @@ atlassian.net##span._19itglyw._vchhusvi._r06hglyw:has(> div > button > span:has-
 atlassian.net##div._fsjd4zrn._nwukvy9e._2hwx12x7:has(> button[aria-label='Link contributing teams'])
 atlassian.net##button#po-spotlight-share-button
 # atlassian.net##div._19pkidpf._2hwx1b66:has(> button > span:has-text(/^(Apps|Share)$/))
-atlassian.net##li._qtt8glyw._19pkidpf:has(> div > div > div > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro|SprintRetro|Pages)$/))
+atlassian.net##li._qtt8glyw._19pkidpf:has(> div > div > div > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro|SprintRetro|Pages|Review)$/))
 atlassian.net##li._qtt8glyw._19pkidpf:has(> div > div > div > div > button:has-text(/^Shortcuts$/))
 atlassian.net##div._16jlidpf._1o9zidpf._i0dl1wug:has(> div > div > div > div > button:has-text(/^More$/))
 atlassian.net##div._16jlkb7n._1o9zkb7n > div > span:has(> button > span > span:has-text(/^(Backlog insights|More actions)$/))
