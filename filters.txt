@@ -237,8 +237,10 @@ twitch.tv##footer
 #bits/subs marquee scroller - 2026-04-27
 twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div > div > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > div > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
 twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > div > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
-#gift badge nagger - 2026-04-27
-twitch.tv##div.iGRgSf.tw-transition:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div.cpWPwm.tw-transition-group > div.hOlFJ.tw-transition > div.eSKdYr > div.gGBpkX > div.iSIERH > button.iCUBCA.blixHj.tw-interactable)
+#gift badge nagger - 2026-05-02
+twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div.cpWPwm > div > div.eSKdYr > div.gGBpkX > div.iSIERH > div.dewBQX > div.htypow > button.iCUBCA.blixHj > div.dKLdbi > div > div.ienLGl > strong.gVZUva:has-text(/gifts until badge upgrade!$/))
+#empty leaderboard sub / bit / clip nagger - 2026-05-02
+twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div.cpWPwm > div.hKZpWn > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > div.khwvkE > div.iQjsmL > div.channelLeaderboardHeaderFirstEntry__empty--GmFVE)
 #hype chat / pinned cheer - 11/16
 twitch.tv##div.Layout-sc-1xcs6mc-0:has(> div > div.Layout-sc-1xcs6mc-0.paid-pinned-chat-message-list)
 #sub month recap on chat page - 1/31
