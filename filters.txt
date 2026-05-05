@@ -236,8 +236,8 @@ twitch.tv##div[data-a-target="player-controls"]:watch-attr(class):remove-class(p
 twitch.tv##.video-manager-dmca-hint
 twitch.tv##footer
 #bits/subs marquee scroller - 2026-04-27
-twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div > div > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > div > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
-twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > div > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
+twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div > div > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
+twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
 #gift badge nagger - 2026-05-02
 twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div.gGBpkX > div.cpWPwm > div > div.eSKdYr > div.gGBpkX > div.iSIERH > div.dewBQX > div.htypow > button.iCUBCA.blixHj > div.dKLdbi > div > div.ienLGl > strong.gVZUva:has-text(/gifts until badge upgrade!$/))
 #empty leaderboard sub / bit / clip nagger - 2026-05-02
