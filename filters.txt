@@ -41,6 +41,7 @@ atlassian.net##div.css-vwxchz:has(> button > span > div:has-text(/^Ask AI$/))
 atlassian.net##div._1reoewfl._18m9ewfl:has(> div > div > div > div > div > button > span:has-text(/^Open Rovo Chat$/))
 atlassian.net##div.atlaskit-portal:has(> div > div > div > div[data-test-id='nudge-inactive-confluence-user.ui.flag.nudge-flag'])
 atlassian.net##div._19itglyw._vchhusvi:has(> div > div > div > div > button > span[aria-label='Ask Rovo'])
+atlassian.net##div._kqsw1n9t._94n51ejb:has(> div > div > div > div[data-spotlight-target='rovo-ai-button'])
 
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
