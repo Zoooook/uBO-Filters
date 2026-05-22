@@ -94,7 +94,7 @@ google.com###snbc
 google.com##.G4fxle
 google.com##div.BxcCLb.z1gt3:has(> img):has(> div.Llv6V > span.t5IqSb):has(> div.Llv6V > span.AJKM0c):has(> div.Llv6V > div.K0MpIf)
 # precise location harrassment - 2/20
-google.com##.gTMtLb.fp-nh
+google.com##div.Qe0THe.OLKT8d:has(> div > div > span > div > div > div > update-location)
 # AI ad
 google.com##div.BxcCLb.YzCcne:has(> div.Llv6V > div.K0MpIf)
 # AI ad
