@@ -197,6 +197,12 @@ meet.google.com##div.KxrHRd:has(> div.K4vxLd-WsjYwc.KZkX7d.JvlbJd.owskpe > div.K
 # Gemini ad in meeting
 meet.google.com##div.YvIqNe:has(> div.pt8HRc.RTBkae > span > button.wX4xVc-Bz112c-LgbsSe.wX4xVc-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.gP9Sgd.lSuz7d > span.wX4xVc-Bz112c-kBDsod-Rtc0Jf > i.google-symbols.ebW6mc)
 meet.google.com##div.TZFSLb.a558Id.X2mOrf.P9KVBf:has(> span.bifLQe > div.zItlrb.xL0oje > div.GBMHM.Ti8zQb > div.TrPwfb):has(> span.bifLQe > div.zItlrb.xL0oje > div.GBMHM.Ti8zQb > div.nUcFIf > div > a.d2jxE):has(> span.bifLQe > div.zItlrb.xL0oje > div.Sxpqfb.Ti8zQb > span > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb > button.YUhpIc-LgbsSe.YUhpIc-LgbsSe-OWXEXe-SfQLQb-suEOdc.YUhpIc-LgbsSe-OWXEXe-dgl2Hf.YUhpIc-StrnGf-YYd4I-VtOx3e.YUhpIc-kSE8rc-FoKg4d-sLO9V-YoZ4jf.xNnXl.Ti8zQb > div.XDoBEd-JGcpL-MkD1Ye.YUhpIc-UdE5de-uDEFge > div.XDoBEd-JGcpL-P1ekSe.XDoBEd-JGcpL-P1ekSe-OWXEXe-A9y3zc.XDoBEd-JGcpL-P1ekSe-OWXEXe-xTMeO > div.XDoBEd-JGcpL-lMrXfd)
+# camera nagger - 2026-05-28
+meet.google.com##div.oZ3U3b.C0exoc.CCDcoc[role='alert']:has(> div > div > h2 > span:has-text(/^Camera might be blocked$/))
+meet.google.com##span.DPvwYc.JnDFsc.ZXaXZ > span.T0OZEe > svg.Cwddbf
+meet.google.com##div.hudGCd:has(> div > div > div > div > div > div > span:has-text(/^You're joining without cam$/))
+meet.google.com##div.TZFSLb.P9KVBf:has(> span > div > div > h2 > span:has-text(/^Camera might be blocked$/))
+meet.google.com##span.VYBDae-Bz112c-kBDsod-Rtc0Jf:has(> span > i:has-text(/^videocam$/)) > span > svg
 
 pandora.com##.AppBg__img--rightRail:style(width: 100% !important)
 pandora.com##.DisplayAdController
