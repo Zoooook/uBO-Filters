@@ -325,11 +325,11 @@ twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm:h
 twitch.tv##div:has(> div.PiZST > button.glPhvE.dgVYJo.brandColor--onm4m[aria-label='Drops'] > div.lnTwMD > div.kccyMt.tw-svg > svg > path)
 
 # dangerous sub gift buttons - 2026-05-30
-div.hgRdQe:has(> button[aria-label]="Purchase gifts for all live followers")
-div.kgwLCr:has(> button[data-a-target]="gift-button-oneclick-50")
-div.kgwLCr:has(> button[data-a-target]="gift-button-oneclick-100")
-div.kgwLCr:has(> button[data-a-target]="gift-button-oneclick-200")
-div.kgwLCr:has(> button[data-a-target]="gift-button-oneclick-1000")
+twitch.tv##div.hgRdQe:has(> button[aria-label]='Purchase gifts for all live followers')
+twitch.tv##div.kgwLCr:has(> button[data-a-target]='gift-button-oneclick-50')
+twitch.tv##div.kgwLCr:has(> button[data-a-target]='gift-button-oneclick-100')
+twitch.tv##div.kgwLCr:has(> button[data-a-target]='gift-button-oneclick-200')
+twitch.tv##div.kgwLCr:has(> button[data-a-target]='gift-button-oneclick-1000')
 
 # partner anniversary chat notification - doesn't block sub announcement button - 2025-10-06
 twitch.tv##div:has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > img):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > div.doBHR > div.jfyitl.bnofRP > button.hMaomf.iwMIba > div.kVXKNj > div.kccyMt.tw-svg > svg > path)
