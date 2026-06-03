@@ -42,6 +42,7 @@ atlassian.net##div._1reoewfl._18m9ewfl:has(> div > div > div > div > div > butto
 atlassian.net##div.atlaskit-portal:has(> div > div > div[data-test-id='nudge-inactive-confluence-user.ui.flag.nudge-flag'])
 atlassian.net##div._19itglyw._vchhusvi:has(> div > div > div > div > button > span[aria-label='Ask Rovo'])
 atlassian.net##div._kqsw1n9t._94n51ejb:has(> div > div > div > div[data-spotlight-target='rovo-ai-button'])
+atlassian.net##div.css-e4yp7b:has(> div[data-testid='ai-proactive-container.view-test'] > div > div > div > span > span:has-text(/^Link similar work items$/))
 
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
