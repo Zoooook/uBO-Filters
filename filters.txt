@@ -337,6 +337,8 @@ twitch.tv##div.kgwLCr:has(> button[data-a-target='gift-button-oneclick-1000'])
 twitch.tv##div:has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > img):has(> div.hOlFJ.tw-transition > div.fSfyIg > div.bTkUWo > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > div.doBHR > div.jfyitl.bnofRP > button.hMaomf.iwMIba > div.kVXKNj > div.kccyMt.tw-svg > svg > path)
 
 # following page spam - 2026-06-04
+twitch.tv##div:has(> header[aria-label='Live channels'])
+twitch.tv##div:has(> header[aria-label='Live channels']) + div
 twitch.tv##header[aria-label='Continue Watching']
 twitch.tv##header[aria-label='Continue Watching'] + div
 twitch.tv##header[aria-label='Continue Watching'] + div + div
