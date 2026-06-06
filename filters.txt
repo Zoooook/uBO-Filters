@@ -344,6 +344,7 @@ twitch.tv##header[aria-label='Continue Watching'] + div
 twitch.tv##header[aria-label='Continue Watching'] + div + div
 twitch.tv##header[aria-label='Latest videos']
 twitch.tv##header[aria-label='Latest videos'] + div
+twitch.tv##div[data-target='following__follow-games-cta']
 
 # gift sub ad - 2026-06-05
 twitch.tv##div.fDCFaY:has(> div > div > div > div > div > span > span > a:has-text(/^Terms Apply/))
