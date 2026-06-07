@@ -60,6 +60,13 @@ discord.com##.notice__5fd4c.colorPremiumTier2_b5437b.colorPremium__32b12
 discord.com##li:has(> button.emojiItemDisabled__36cbf)
 discord.com##li.messageListItem__6a4fb > div > div > img[src*="gif"]
 
+discord.com##div[aria-label='Send a gift']
+discord.com##div.expression-picker-chat-input-button
+discord.com##div.app-launcher-entrypoint
+discord.com##div#channel-attach-THREAD
+discord.com##div#channel-attach-poll
+discord.com##div#channel-attach-SLASH_COMMAND
+
 # ads - 2025-08-04
 docs.google.com##div:has(> div > div.docs-promo-container)
 # gemini - 2026-03-36
