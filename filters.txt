@@ -356,6 +356,9 @@ twitch.tv##div[data-target='following__follow-games-cta']
 # gift sub ad - 2026-06-05
 twitch.tv##div.fDCFaY:has(> div > div > div > div > div > span > span > a:has-text(/^Terms Apply/))
 
+# follow nagger
+twitch.tv##div.kydOpI:has(> div > article > div > div > div > div > div > button[aria-label='Close follow prompt'])
+
 
 wikipedia.org###centralNotice
 wikipedia.org###mwe-popups-svg
