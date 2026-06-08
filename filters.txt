@@ -208,7 +208,7 @@ meet.google.com##div.TZFSLb.a558Id.X2mOrf.P9KVBf:has(> span.bifLQe > div.zItlrb.
 # camera nagger - 2026-05-28
 meet.google.com##div.oZ3U3b.C0exoc.CCDcoc[role='alert']:has(> div > div > h2 > span:has-text(/^Camera might be blocked$/))
 meet.google.com##span.DPvwYc.JnDFsc.ZXaXZ > span.T0OZEe > svg.Cwddbf
-meet.google.com##div.hudGCd:has(> div > div > div > div > div > div > span:has-text(/^You're joining without cam$/))
+meet.google.com##div.hudGCd:has(> div > div > div > div > div > div > span:has-text(/^You\'re joining without cam$/))
 meet.google.com##div.TZFSLb.P9KVBf:has(> span > div > div > h2 > span:has-text(/^Camera might be blocked$/))
 meet.google.com##span.VYBDae-Bz112c-kBDsod-Rtc0Jf:has(> span > i:has-text(/^videocam$/)) > span > svg
 
