@@ -46,6 +46,7 @@ atlassian.net##div.css-e4yp7b:has(> div[data-testid='ai-proactive-container.view
 
 # Google integration naggers
 atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > span > div > div > div > div > span > div > button > span:has-text(/^Connect Google Drive$/))
+atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > span > div > div > div > h2 > span:has-text(/^Connect Google Drive$/))
 atlassian.net##div[data-testid='smart-block-unauthorized-view-content']
 atlassian.net##div.actions-button-group:has(> div > div[data-testid='smart-action-connect-account-button-wrapper'])
 atlassian.net##div[data-testid='smart-element-group']:has(> div[data-testid='smart-block-unauthorized-view-content']) + div._1reo15vq
