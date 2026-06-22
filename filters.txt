@@ -366,6 +366,8 @@ twitch.tv##div.fDCFaY:has(> div > div > div > div > div > span > span > a:has-te
 # follow nagger
 twitch.tv##div.kydOpI:has(> div > article > div > div > div > div > div > button[aria-label='Close follow prompt'])
 
+# some new nagger - 2026-06-21
+twitch.tv##div:has(> div.hOlFJ.tw-transition > div > div > div > div > div > div > span.fNANlM:has-text(/^Keep watching/))
 
 wikipedia.org###centralNotice
 wikipedia.org###mwe-popups-svg
