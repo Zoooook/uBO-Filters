@@ -369,6 +369,7 @@ twitch.tv##div.kydOpI:has(> div > article > div > div > div > div > div > button
 # weekly rewards nagger - 2026-06-22
 twitch.tv##div:has(> div.hOlFJ.tw-transition > div > div > div > div > div > div > span:has-text(/^Keep watching/))
 twitch.tv##div:has(> div.hOlFJ.tw-transition > div > button[aria-label='View Weekly Rewards progress'])
+twitch.tv##div.dWMbiA:has(> div > div > h3:has-text(/^Watch/))
 
 # watch streak in sidebar - 2026-06-24
 twitch.tv##div.hMzOYz:has(> p:has-text(/^Watch Streak/))
