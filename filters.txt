@@ -50,6 +50,10 @@ atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > span > di
 atlassian.net##div[data-testid='smart-block-unauthorized-view-content']
 atlassian.net##div.actions-button-group:has(> div > div[data-testid='smart-action-connect-account-button-wrapper'])
 atlassian.net##div[data-testid='smart-element-group']:has(> div[data-testid='smart-block-unauthorized-view-content']) + div._1reo15vq
+atlassian.net##span[data-inline-card="true"] > span.loader-wrapper > a[data-testid="inline-card-resolving-view"] > span[data-testid="inline-card-icon-and-title"] > span[data-testid="icon-position-wrapper"]
+atlassian.net##span.hover-card-trigger-wrapper > span[data-testid="inline-card-unauthorized-view"] > span[data-testid="inline-card-icon-and-title"] > a > span[data-testid="icon-position-wrapper"]
+atlassian.net##span._19itglyw._vchhusvi:has(> span[data-testid="inline-card-unauthorized-view-social-proof-tag"])
+atlassian.net##div.atlaskit-portal:has(> div > div.smart-links-hover-preview > div[data-testid="hover-card-rovo-unauthorised-view"])
 
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
