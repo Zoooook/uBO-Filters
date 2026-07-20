@@ -55,6 +55,11 @@ atlassian.net##span.hover-card-trigger-wrapper > span[data-testid="inline-card-u
 atlassian.net##span._19itglyw._vchhusvi:has(> span[data-testid="inline-card-unauthorized-view-social-proof-tag"])
 atlassian.net##div.atlaskit-portal:has(> div > div.smart-links-hover-preview > div[data-testid="hover-card-rovo-unauthorised-view"])
 
+# Slack integration naggers
+atlassian.net##span:has(> div._2rko1mok._1reo15vq > div > div > button:has-text(/^Connect$/))
+atlassian.net##button[data-testid="button-connect-account"]
+atlassian.net##span[data-testid="icon-position-wrapper"]:has(> span[data-testid="icon-wrapper"] > img[data-testid="inline-card-icon-and-title-image"])
+
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
 # discord.com##div.layerContainer_d5a653:has(> div.layer_ad604d > div.focusLock__10aa5)
