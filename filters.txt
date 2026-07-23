@@ -59,6 +59,7 @@ atlassian.net##div.atlaskit-portal:has(> div > div.smart-links-hover-preview > d
 atlassian.net##span:has(> div._2rko1mok._1reo15vq > div > div > button:has-text(/^Connect$/))
 atlassian.net##button[data-testid="button-connect-account"]
 atlassian.net##span[data-testid="icon-position-wrapper"]:has(> span[data-testid="icon-wrapper"] > img[data-testid="inline-card-icon-and-title-image"])
+atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > div > span > div > div > div > h2 > span:has-text(/^Connect Slack$/))
 
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
