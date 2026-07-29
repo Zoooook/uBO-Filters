@@ -393,6 +393,9 @@ twitch.tv##div.dTzELJ:has(> div > p:has-text(/^Earn Weekly Rewards!$/))
 # watch streak in sidebar - 2026-06-24
 twitch.tv##div.hMzOYz:has(> p:has-text(/^Watch Streak/))
 
+# gemini nagger - 2026-07-29
+voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
+
 wikipedia.org###centralNotice
 wikipedia.org###mwe-popups-svg
 wikipedia.org##.cn-fundraising
