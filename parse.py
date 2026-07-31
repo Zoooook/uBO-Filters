@@ -22,16 +22,27 @@ for line in html:
             stack.pop()
         stack.pop()
     elif line[0:3] != '!--':
-        line = line.split('>')[0]
-        line = re.sub('(?s) (?!(class|id))[a-zA-Z_-]+=".*?"', '', line)
-        # line = re.sub(' id="(.*?)"', r'#\1', line)
-        line = re.sub(' id="(.*?)"', '', line)
-        line = re.sub(' class="(.*?)"', r'.\1', line)
+        element = re.split(' |>', line)[0]
+        text = line.split('>')[1]
 
-        line = '\n'.join([newline for newline in line.split('\n') if newline.strip()])
-        line = line.replace(' ', '.')
-        line = re.sub(r'\.+', '.', line)
-        line = re.sub(r'\.+$', '', line)
+        attrtext = ' '.join(line.split(' ')[1:]).split('>')[0]
+        attrs = {}
+        for attr in re.findall('[a-zA-Z_-]+=".*?"', line, re.DOTALL):
+            key = attr.split('=')[0]
+            if key in ['id', 'class', 'aria-label', 'data-test-selector']:
+                attrs[key] = attr.split('"')[1]
+
+        line = element
+        if 'id' in attrs:
+            line += '#' + attrs['id']
+            del attrs['id']
+        if 'class' in attrs:
+            line += '.' + '.'.join(attrs['class'].split(' '))
+            del attrs['class']
+        for key, val in attrs.items():
+            line += '[' + key + '="' + val + '"]'
+        if text:
+            line += ':has-text(/^' + text + '$/)'
 
         for i in range(2):
             line = re.sub(r'\.[0-9a-zA-Z-]*-sc-[0-9a-zA-Z-]*(\.|$)', r'\1', line)
