@@ -393,6 +393,9 @@ twitch.tv##div.dTzELJ:has(> div > p:has-text(/^Earn Weekly Rewards!$/))
 # watch streak in sidebar - 2026-06-24
 twitch.tv##div.hMzOYz:has(> p:has-text(/^Watch Streak/))
 
+# bonus subs banner - 2026-07-31
+twitch.tv##div.stream-chat > div:has(> div[data-test-selector="channel-skins-shared-above-chat-v3"] > button[aria-label="BONUS SUBS"])
+
 # gemini nagger - 2026-07-29
 voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
 
