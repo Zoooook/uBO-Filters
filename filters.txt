@@ -279,21 +279,20 @@ twitch.tv##div[data-a-target="player-controls"]:watch-attr(class):remove-class(p
 twitch.tv##.video-manager-dmca-hint
 twitch.tv##footer
 
-# all the annoying chat headers since twitch keeps adding more - 2026-07-29
-# twitch.tv##div.iGRgSf.tw-transition:has(> div > div.cMeiZH > div.cMeiZH > div.gAZpEX > div.cpWPwm.tw-transition-group)
-twitch.tv##div.chat-room__content > div:has(> div.cMeiZH > div.cMeiZH > div.gAZpEX > div.cpWPwm.tw-transition-group)
-twitch.tv##div.chat-room__content > div:has(> div.cMeiZH > div.cMeiZH > div.gAZpEX > div > div > div > div.cpWPwm.tw-transition-group)
+# all the annoying chat headers since twitch keeps adding more - 2026-08-16
+twitch.tv##div.chat-room__content > div:has(> div.fnIdZg > div.fnIdZg > div > div.tw-transition-group)
+twitch.tv##div.chat-room__content > div:has(> div.fnIdZg > div.fnIdZg > div > div > div > div > div.tw-transition-group)
 
 # bits/subs marquee scroller - 2026-04-27
-# twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div > div > div > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
-# twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
+# twitch.tv##div.iGRgSf:has(> div > div.fnIdZg > div.fnIdZg > div > div > div > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
+# twitch.tv##div.iGRgSf:has(> div > div.fnIdZg > div.fnIdZg > div > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > button.iCUBCA > div.eLriPR > div.dRMwTz > div > div > div.gQAGKi > div > div > div.dBDRTq)
 # gift badge nagger above chat - 2026-05-08
-# twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div > div.cpWPwm > div > div.eSKdYr > div > div.iSIERH > div.dewBQX > div.htypow > button.iCUBCA.blixHj > div.dKLdbi > div > div.ienLGl > strong.gVZUva:has-text(/gifts until badge upgrade!$/))
-# twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div > div.cpWPwm > div > div.eSKdYr > div > div.iSIERH > button.iCUBCA.blixHj > div > div > strong.gVZUva:has-text(/gifts until badge upgrade!$/))
+# twitch.tv##div.iGRgSf:has(> div > div.fnIdZg > div.fnIdZg > div > div > div > div.eSKdYr > div > div.iSIERH > div.dewBQX > div.htypow > button.iCUBCA.blixHj > div.dKLdbi > div > div.ienLGl > strong.gVZUva:has-text(/gifts until badge upgrade!$/))
+# twitch.tv##div.iGRgSf:has(> div > div.fnIdZg > div.fnIdZg > div > div > div > div.eSKdYr > div > div.iSIERH > button.iCUBCA.blixHj > div > div > strong.gVZUva:has-text(/gifts until badge upgrade!$/))
 # sub goal nagger above chat - 2026-05-19
-# twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div > div.cpWPwm > div > div.eSKdYr > div > div.iSIERH > div.dewBQX > div  > div  > div  > div  > div  > div  > div  > div > p.jSJTEz:has-text(/ more sub points to go!$/))
+# twitch.tv##div.iGRgSf:has(> div > div.fnIdZg > div.fnIdZg > div > div > div > div.eSKdYr > div > div.iSIERH > div.dewBQX > div  > div  > div  > div  > div  > div  > div  > div > p.jSJTEz:has-text(/ more sub points to go!$/))
 # empty leaderboard sub / bit / clip nagger - 2026-05-02
-# twitch.tv##div.iGRgSf:has(> div > div.cMeiZH > div.cMeiZH > div > div.cpWPwm > div.hKZpWn > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > div.khwvkE > div.iQjsmL > div.channelLeaderboardHeaderFirstEntry__empty--GmFVE)
+# twitch.tv##div.iGRgSf:has(> div > div.fnIdZg > div.fnIdZg > div > div > div.hKZpWn > div.iSIERH > div.dewBQX > div.eOHCrm > div.DOhaZ > div.khwvkE > div.iQjsmL > div.channelLeaderboardHeaderFirstEntry__empty--GmFVE)
 
 # hype chat / pinned cheer - 11/16
 twitch.tv##div.Layout-sc-1xcs6mc-0:has(> div > div.Layout-sc-1xcs6mc-0.paid-pinned-chat-message-list)
@@ -343,7 +342,7 @@ twitch.tv##div.gmbpwB > div.fHdBNk > div.kaAEut:has(> div.iDMNUO > div.kOoFSj > 
 # viral clip banner 2025-10-03
 twitch.tv##div.kFLrqZ:has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.dbgLWR > div.gjMevQ):has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.dbgLWR > div.halyyv > div.goosYB):has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.learn-more-button > a.gGttfb > div.kaIUar > div.bLZXTb)
 # viral clip ad in chat 2025-10-25
-# twitch.tv##div:has(> div.Akwmp > div.lkDtpE > div > div.cpWPwm > div.lkDtpE > div.jubumC > div.ircmYD > div > div > div.gwQEvr > div.cCaZpv > div.dtSdDz > div.bKvgvG > div.iHlRfk > div.dKitkM > div > p.iLuWTx)
+# twitch.tv##div:has(> div.Akwmp > div.lkDtpE > div > div > div.lkDtpE > div.jubumC > div.ircmYD > div > div > div.gwQEvr > div.cCaZpv > div.dtSdDz > div.bKvgvG > div.iHlRfk > div.dKitkM > div > p.iLuWTx)
 # mod ad break actions
 twitch.tv##div:has(> div.iGRgSf.tw-transition > div.dBppLj.monetization--mI_wc.expanded--el4qz > div.bRYBYC > div.hfZTex > div.kvjacc.body--gsdVN > div.cFDvNh > div.ipRTld > div.jfyitl.TtKWF > button.eoyBQj > div.kaIUar > div.bLZXTb)
 # promoted stream in sidebar - 2025-12-08
