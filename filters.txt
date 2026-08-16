@@ -392,8 +392,8 @@ twitch.tv##div:has(> div.hOlFJ.tw-transition > div > button[aria-label='View Wee
 twitch.tv##div.dWMbiA:has(> div > div > h3:has-text(/^Watch/))
 twitch.tv##div.dTzELJ:has(> div > p:has-text(/^Earn Weekly Rewards!$/))
 
-# watch streak in sidebar - 2026-06-24
-twitch.tv##div.hMzOYz:has(> p:has-text(/^Watch Streak/))
+# watch streak in sidebar - 2026-08-15
+twitch.tv##div.bOtksM:has(> p:has-text(/^Watch Streak /))
 
 # bonus subs banner - 2026-07-31
 twitch.tv##div.stream-chat > div:has(> div[data-test-selector="channel-skins-shared-above-chat-v3"] > button[aria-label="BONUS SUBS"])
