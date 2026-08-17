@@ -265,7 +265,7 @@ www.reddit.com##search-telemetry-tracker > search-telemetry-tracker > a > span:h
 slack.com##div[role="presentation"]:watch-attr(class):remove-class(c-message_kit__hidden_message_blur)
 
 snowflake.com##div.cm-inline-copilot-gutter
-snowflake.com##span.cm-copilot-placeholder:style(color:#191E24 !important;)
+snowflake.com##span.cm-copilot-placeholder:style(color:#0F1216 !important;)
 snowflake.com##div.add-to-chat-tooltip
 snowflake.com##span.cm-inline-suggestion
 snowflake.com##span.cm-tab-to-accept-container
