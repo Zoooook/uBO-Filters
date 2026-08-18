@@ -29,7 +29,7 @@ for line in html:
         attrs = {}
         for attr in re.findall('[a-zA-Z_-]+=".*?"', line, re.DOTALL):
             key = attr.split('=')[0]
-            if key in ['id', 'class', 'aria-label', 'data-test-selector']:
+            if key in ['id', 'class', 'title', 'aria-label', 'data-test-selector']:
                 attrs[key] = attr.split('"')[1]
 
         line = element
