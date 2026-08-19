@@ -401,6 +401,10 @@ twitch.tv##div.stream-chat > div:has(> div[data-test-selector="channel-skins-sha
 twitch.tv##div.side-nav__title:has(> h3:has-text(/^For You$/))
 twitch.tv##div[aria-label="Watch Streaks at risk"]
 
+# gift sub discount naggers - 2026-08-18
+twitch.tv##div.hgGjHP:has(> div > div > div > div.giftExpirationCalloutCreatorLed--MnvcU)
+twitch.tv##div:has(> div[aria-label="Gift Sub"]):has(> p:has-text(/^Discount/))
+
 # gemini nagger - 2026-07-29
 voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
 
