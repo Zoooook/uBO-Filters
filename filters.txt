@@ -407,6 +407,9 @@ twitch.tv##div.hgGjHP:has(> div > div > div > div.giftExpirationCalloutCreatorLe
 twitch.tv##div:has(> div[aria-label="Gift Sub"]):has(> p:has-text(/^Discount/))
 twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > p:has-text(/^Just For You/))
 
+# pokemon spam - 2026-08-28
+twitch.tv##div:has(> div > a.navigation-link[data-test-selector="top-nav__pokemon-worlds-2026-link"])
+
 # gemini nagger - 2026-07-29
 voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
 
