@@ -9,6 +9,13 @@ amazon.com##div#ppd > div#leftCol > div#imageBlock_feature_div + div#nile-inline
 amazon.com##div#rufus-ask-rufus-tooltip
 
 app.snowflake.com##div.cm-tooltip-autocomplete
+app.snowflake.com##div.cm-inline-copilot-gutter
+app.snowflake.com##span.cm-copilot-placeholder:style(color:#0F1216 !important;)
+app.snowflake.com##div.add-to-chat-tooltip
+app.snowflake.com##span.cm-inline-suggestion
+app.snowflake.com##span.cm-tab-to-accept-container
+app.snowflake.com##div.wkspcs-78zum5:has(> div > p:has-text(/^Query taking too long/))
+app.snowflake.com##div[data-testid="ai-homepage-experiment-slot"]
 
 atlassian.net##div._zulp1kw7._1e0c1kw7:has(> div > button > span > span:has-text(/^$Switch sites or apps/)):has(> div > a > div > span > span > span:has-text(/^Jira$/))
 atlassian.net##span._19itglyw._vchhusvi._r06hglyw:has(> div > button > span:has-text(/^Ask Rovo$/))
@@ -264,13 +271,6 @@ www.reddit.com##a[href^='/search/?q=']:style(color: rgb(183, 202, 212) !importan
 www.reddit.com##search-telemetry-tracker > search-telemetry-tracker > a > span:has(> svg)
 
 slack.com##div[role="presentation"]:watch-attr(class):remove-class(c-message_kit__hidden_message_blur)
-
-snowflake.com##div.cm-inline-copilot-gutter
-snowflake.com##span.cm-copilot-placeholder:style(color:#0F1216 !important;)
-snowflake.com##div.add-to-chat-tooltip
-snowflake.com##span.cm-inline-suggestion
-snowflake.com##span.cm-tab-to-accept-container
-snowflake.com##div.wkspcs-78zum5:has(> div > p:has-text(/^Query taking too long/))
 
 twitch.tv##.front-page-carousel
 twitch.tv##section#channel-player-disclosures
