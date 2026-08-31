@@ -329,11 +329,11 @@ youtube.com##div#expandable-metadata.style-scope.ytd-watch-flexy:has(> ytd-expan
 twitch.tv##div.lfgCPD:has(> div > div.community-highlight-stack__scroll-area--disable.scrollable-area.scrollable-area--suppress-scroll-x > div.simplebar-scroll-content.community-highlight-stack__scroll-area--disable > div.simplebar-content.community-highlight-stack__scroll-content--disable > div.InjectLayout-sc-1i43xsx-0.rzgkN > div.bpYTCk.tw-transition > div.community-highlight-stack__card > div.InjectLayout-sc-1i43xsx-0.InjectLayout-sc-1i43xsx-0.hWukFy.tw-transition-group > div.bpYTCk.tw-transition > div.eOjZps.community-highlight > div.fa-DWuH > div > div.fiDdoF.highlight.highlight__collapsed > div.fiLNTr > div.capulb.highlight__header > div.dcyYPL > div.bnySMP > div.hQmxir > div.crrzXE.mystery-gift-chat-banner__gift_icon_wrapper > div.ScFigure-sc-wkgzod-0.cKJUoi.tw-svg)
 twitch.tv##div.kbdfeJ:has(> div.ceSMVf > div.ScLayoutCssVars-sc-1pn65j5-0.eBVDqW.kDqwkV.tw-root--theme-dark > div.GOyVF.giftExpirationCallout--W1rIF > div > div.bZYJdV > p.CoreText-sc-1txzju1-0.dLeJdh > span.CoreText-sc-1txzju1-0 > a.ScCoreLink-sc-16kq0mq-0.izQbxj.tw-link)
 # subscriber recap - 2025-06-23
-twitch.tv##div.kFLrqZ:has(> div > article > div.jfyitl > div.egqCnl > div.gPNLhS > div.dtSdDz > div.hYyLfz > div.bwtGga > .lbYztg)
-twitch.tv##div:has(> article > div.jfyitl > div.egqCnl > div.gPNLhS > div.dtSdDz > div.hYyLfz > div.bwtGga > .lbYztg)
+twitch.tv##div.kFLrqZ:has(> div > article > div > div.egqCnl > div.gPNLhS > div.dtSdDz > div.hYyLfz > div.bwtGga > .lbYztg)
+twitch.tv##div:has(> article > div > div.egqCnl > div.gPNLhS > div.dtSdDz > div.hYyLfz > div.bwtGga > .lbYztg)
 # gift sub discount ad - 2025-06-26
-twitch.tv##div.kFLrqZ:has(> div.ihSefD > div.MeQwG > div.kPgWRp > div)
-twitch.tv##div.ihSefD:has(> div.MeQwG > div.kPgWRp > div)
+twitch.tv##div.kFLrqZ:has(> div > div.MeQwG > div.kPgWRp > div)
+twitch.tv##div:has(> div.MeQwG > div.kPgWRp > div)
 # discount in sidebar - 2025-06-23
 twitch.tv##div.dKitkM:has(> div.cHSNzX.giftGradient--v_V5Q):has(> p.jPfhdt)
 # combos - 2025-06-26
@@ -341,23 +341,23 @@ twitch.tv##div.gEvECC:has(> div.kkinSD.oneTapIngressButton--inGsR.ingressButtonB
 # continue sub nagging red dot - 2025-08-02
 twitch.tv##div.gmbpwB > div.fHdBNk > div.kaAEut:has(> div.iDMNUO > div.kOoFSj > div.ScNewItemIndicatorWrapper-sc-1udtibe-2.lbpZbS.tw-new-item-indicator__container > div.ScNewItemIndicator-sc-1udtibe-0.bplIQq)
 # viral clip banner 2025-10-03
-twitch.tv##div.kFLrqZ:has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.dbgLWR > div.gjMevQ):has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.dbgLWR > div.halyyv > div.goosYB):has(> div.ihSefD > div.bnofRP > div.gLGEhD > div.learn-more-button > a.gGttfb > div.kaIUar > div.bLZXTb)
+twitch.tv##div.kFLrqZ:has(> div > div.bnofRP > div.gLGEhD > div.dbgLWR > div.gjMevQ):has(> div > div.bnofRP > div.gLGEhD > div.dbgLWR > div.halyyv > div.goosYB):has(> div > div.bnofRP > div.gLGEhD > div.learn-more-button > a.gGttfb > div.kaIUar > div.bLZXTb)
 # viral clip ad in chat 2025-10-25
 # twitch.tv##div:has(> div.Akwmp > div.lkDtpE > div > div > div.lkDtpE > div.jubumC > div.ircmYD > div > div > div.gwQEvr > div.cCaZpv > div.dtSdDz > div.bKvgvG > div.iHlRfk > div.dKitkM > div > p.iLuWTx)
 # mod ad break actions
-twitch.tv##div:has(> div.iGRgSf.tw-transition > div.dBppLj.monetization--mI_wc.expanded--el4qz > div.bRYBYC > div.hfZTex > div.kvjacc.body--gsdVN > div.cFDvNh > div.ipRTld > div.jfyitl.TtKWF > button.eoyBQj > div.kaIUar > div.bLZXTb)
+twitch.tv##div:has(> div.iGRgSf.tw-transition > div.dBppLj.monetization--mI_wc.expanded--el4qz > div.bRYBYC > div.hfZTex > div.kvjacc.body--gsdVN > div.cFDvNh > div.ipRTld > div.TtKWF > button.eoyBQj > div.kaIUar > div.bLZXTb)
 # promoted stream in sidebar - 2025-12-08
 twitch.tv##div.tw-transition:has(> div > div.side-nav-card > a.side-nav-card__link--promoted-followed)
 # notification nagging in stream - 2026-02-14
-twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm):has(> div.cexlzi > div.ggvZjN > div.eOHCrm > div.dPMgk > div.cBCBY > div > div.iglnKI > div.dCFkna > button.yezmM > div.kaIUar > div.bLZXTb > div.ceVcik > div.kxAWvZ > div.dsEeIO.tw-animation > div.ceVcik > div.iDMNUO > div.dVDUDh.tw-svg > svg > path):has(> div.cexlzi > div.ggvZjN > div.eOHCrm > div.kCBkGE > div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.ljigeK > div.dVDUDh.tw-svg > svg > path):has(> div.cexlzi > div.ggvZjN > div.eOHCrm > div.kCBkGE > div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.kvrzxX > div.fsazhJ.tw-core-button-icon > div.kccyMt.tw-svg > svg > path)
+twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm):has(> div > div.ggvZjN > div.eOHCrm > div.dPMgk > div.cBCBY > div > div.iglnKI > div.dCFkna > button.yezmM > div.kaIUar > div.bLZXTb > div.ceVcik > div.kxAWvZ > div.dsEeIO.tw-animation > div.ceVcik > div.iDMNUO > div.dVDUDh.tw-svg > svg > path):has(> div > div.ggvZjN > div.eOHCrm > div.kCBkGE > div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.ljigeK > div.dVDUDh.tw-svg > svg > path):has(> div > div.ggvZjN > div.eOHCrm > div.kCBkGE > div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div.kaIUar > div.kvrzxX > div.fsazhJ.tw-core-button-icon > div.tw-svg > svg > path)
 # notification button when other than personalized - 2026-04-10
-twitch.tv##div.kCBkGE:has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div > div.kvrzxX > div.tw-core-button-icon > div.kccyMt.tw-svg > svg > path):has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div > div > div.dVDUDh.tw-svg > svg > path + path)
+twitch.tv##div.kCBkGE:has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div > div.kvrzxX > div.tw-core-button-icon > div.tw-svg > svg > path):has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > button.yezmM > div > div > div.dVDUDh.tw-svg > svg > path + path)
 # combos in chat - 2026-02-17
 twitch.tv##div:has(> div.eCiQQE > div.eynKOr > div.jKChow > div.ckOOIf > img)
 # notification nagging on offline stream - 2026-04-10
 twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm:has-text(/^You will no longer receive notifications from/))
 # drops button under chat box - 2026-05-14
-twitch.tv##div:has(> div.PiZST > button.glPhvE.dgVYJo.brandColor--onm4m[aria-label='Drops'] > div.lnTwMD > div.kccyMt.tw-svg > svg > path)
+twitch.tv##div:has(> div.PiZST > button.glPhvE.dgVYJo.brandColor--onm4m[aria-label='Drops'] > div.lnTwMD > div.tw-svg > svg > path)
 
 # dangerous sub gift buttons - 2026-05-30
 twitch.tv##div.hgRdQe:has(> button[aria-label='Purchase gifts for all live followers'])
@@ -367,7 +367,7 @@ twitch.tv##div.kgwLCr:has(> button[data-a-target='gift-button-oneclick-200'])
 twitch.tv##div.kgwLCr:has(> button[data-a-target='gift-button-oneclick-1000'])
 
 # partner anniversary chat notification - doesn't block sub announcement button - 2025-10-06
-twitch.tv##div:has(> div.tw-transition > div.fSfyIg > div.farzZv > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > img):has(> div.tw-transition > div.fSfyIg > div.farzZv > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > div.doBHR > div.jfyitl.bnofRP > button.hMaomf.iwMIba > div.kVXKNj > div.kccyMt.tw-svg > svg > path)
+twitch.tv##div:has(> div.tw-transition > div > div > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > img):has(> div.tw-transition > div > div > div > div.hDlHnO > div.bDhkiR.chat-private-callout__icon.chat-private-callout__icon--overlay > div > div.bnofRP > button.hMaomf.iwMIba > div > div.tw-svg > svg > path)
 
 # following page spam - 2026-07-31
 twitch.tv##div:has(> header[aria-label='Live channels'])
