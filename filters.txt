@@ -50,6 +50,7 @@ atlassian.net##div.atlaskit-portal:has(> div > div > div[data-test-id='nudge-ina
 atlassian.net##div._19itglyw._vchhusvi:has(> div > div > div > div > button > span[aria-label='Ask Rovo'])
 atlassian.net##div._kqsw1n9t._94n51ejb:has(> div > div > div > div[data-spotlight-target='rovo-ai-button'])
 atlassian.net##div.css-e4yp7b:has(> div[data-testid='ai-proactive-container.view-test'] > div > div > div > span > span:has-text(/^Link similar work items$/))
+atlassian.net##div:has(> div[data-testid="ai-agent-sessions.title-container"])
 
 # Google integration naggers
 atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > span > div > div > div > div > span > div > button > span:has-text(/^Connect Google Drive$/))
@@ -62,6 +63,7 @@ atlassian.net##span.hover-card-trigger-wrapper > span[data-testid="inline-card-u
 atlassian.net##span._19itglyw._vchhusvi:has(> span[data-testid="inline-card-unauthorized-view-social-proof-tag"])
 atlassian.net##div.atlaskit-portal:has(> div > div.smart-links-hover-preview > div[data-testid="hover-card-rovo-unauthorised-view"])
 atlassian.net##div.atlaskit-portal:has(> div > div > div > div.smart-links-hover-preview)
+atlassian.net##div[data-testid="smart-element-group"]
 
 # Slack integration naggers
 atlassian.net##span:has(> div._2rko1mok._1reo15vq > div > div > button:has-text(/^Connect$/))
