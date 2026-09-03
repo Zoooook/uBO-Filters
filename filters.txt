@@ -61,6 +61,7 @@ atlassian.net##span[data-inline-card="true"] > span.loader-wrapper > a[data-test
 atlassian.net##span.hover-card-trigger-wrapper > span[data-testid="inline-card-unauthorized-view"] > span[data-testid="inline-card-icon-and-title"] > a > span[data-testid="icon-position-wrapper"]
 atlassian.net##span._19itglyw._vchhusvi:has(> span[data-testid="inline-card-unauthorized-view-social-proof-tag"])
 atlassian.net##div.atlaskit-portal:has(> div > div.smart-links-hover-preview > div[data-testid="hover-card-rovo-unauthorised-view"])
+atlassian.net##div.atlaskit-portal:has(> div > div > div > div.smart-links-hover-preview)
 
 # Slack integration naggers
 atlassian.net##span:has(> div._2rko1mok._1reo15vq > div > div > button:has-text(/^Connect$/))

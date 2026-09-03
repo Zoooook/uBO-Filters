@@ -29,7 +29,7 @@ for line in html:
         attrs = {}
         for attr in re.findall('[a-zA-Z_-]+=".*?"', line, re.DOTALL):
             key = attr.split('=')[0]
-            if key in ['id', 'class', 'title', 'aria-label', 'data-test-selector']:
+            if key in ['id', 'class', 'title', 'aria-label', 'data-test-selector', 'data-testid', 'data-splitter-id']:
                 attrs[key] = attr.split('"')[1]
 
         line = element
@@ -52,9 +52,9 @@ for line in html:
 
 print()
 
-with open('output.txt', 'w') as outfile:
+with open('output.txt', 'w', encoding="utf-8") as outfile:
     for line in newHtml:
-        outfile.write(line + '\n')
         print(line)
+        outfile.write(line + '\n')
 
 print()
