@@ -413,6 +413,9 @@ twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > p:has-text(/^Jus
 # pokemon spam - 2026-08-28
 twitch.tv##div:has(> div > a.navigation-link[data-test-selector="top-nav__pokemon-worlds-2026-link"])
 
+# drops button - 2026-09-14
+twitch.tv##div:has(> div > button[aria-label="Drops"])
+
 # gemini nagger - 2026-07-29
 voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
 
