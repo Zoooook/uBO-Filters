@@ -132,6 +132,7 @@ google.com##div.BxcCLb.z1gt3:has(> img):has(> div.Llv6V > span.t5IqSb):has(> div
 google.com##dynamic-visibility-control:has(> div > div > div > div > div > update-location)
 google.com##div.qk7LXc:has(> div > div > div > update-location)
 google.com##update-location
+google.com##div#sZmt3b.OLKT8d
 # AI ad
 google.com##div.BxcCLb.YzCcne:has(> div.Llv6V > div.K0MpIf)
 # AI ad
@@ -165,8 +166,6 @@ google.com##div.ULSxyf:has(> div.MjjYud > div#eKIzJc.Wm5I1e)
 # AI header - 2025-12-09
 google.com##div#rcnt.YNk70c.NbTBrb.GyAeWb.EyBRub.tXI1nd > div.SLPe5b:has(> div.SLPe5b > div.XqFnDf > div > div.kp-wholepage-osrp.n4H9Ud > div.HdbW6.MjUjnf.VM6qJ.Mefd0c > div.hHq9Z.m0pBqd > div > div.KsRP6)
 google.com##div#rcnt.YNk70c.NbTBrb.GyAeWb.EyBRub.tXI1nd > div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd > div > div > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV)
-# location harrassment - 2026-01-17
-google.com##div#lb.gTMtLb.OLKT8d
 # search result AI description - 2025-10-10
 google.com##div.kb0PBd.A9Y9g:has(> div > div > div > div.MfkhVb.XNfAUb > div.RyIFgf > div.EDblX.HG5ZQb > div.VXqlzf.XRVJtc.x3A3gd.CLLuUd.rEzOad > div.VqeGe > div.THl5qe.p7bv.wYFOId > div.hoFhsb.EXH1Ce > div.ORij0c.vqseUe > a.LVegBe > span.z1asCe.GNeCNe > svg  > path)
 # AI blurb at top - 2026-02-18

@@ -45,7 +45,7 @@ for line in html:
             line += ':has-text(/^' + text + '$/)'
 
         for i in range(2):
-            line = re.sub(r'\.[0-9a-zA-Z-]*-sc-[0-9a-zA-Z-]*(\.|$)', r'\1', line)
+            line = re.sub(r'\.[0-9a-zA-Z-]*-sc-[0-9a-zA-Z-]*(\.|\[|$)', r'\1', line)
 
         newHtml.append(' '*len(stack) + line)
         stack.append(line)
