@@ -283,6 +283,7 @@ twitch.tv##.video-manager-dmca-hint
 twitch.tv##footer
 
 # all the annoying chat headers since twitch keeps adding more - 2026-09-18
+twitch.tv##div.chat-room__content > div:has(> div.fnIdZg > div.fnIdZg > div > div > div > div > div.tw-transition-group)
 twitch.tv##div.chat-room__content > div:has(> div.fnIdZg > div.fnIdZg > div > div > div > div > button.tw-interactable)
 
 # bits/subs marquee scroller - 2026-04-27
