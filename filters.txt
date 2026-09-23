@@ -133,7 +133,7 @@ google.com##div.BxcCLb.z1gt3:has(> img):has(> div.Llv6V > span.t5IqSb):has(> div
 google.com##dynamic-visibility-control:has(> div > div > div > div > div > update-location)
 google.com##div.qk7LXc:has(> div > div > div > update-location)
 google.com##update-location
-google.com##div#sZmt3b.OLKT8d
+# google.com##div#sZmt3b.OLKT8d
 # AI ad
 google.com##div.BxcCLb.YzCcne:has(> div.Llv6V > div.K0MpIf)
 # AI ad
