@@ -304,8 +304,6 @@ twitch.tv##div.Layout-sc-1xcs6mc-0:has(> div > div.Layout-sc-1xcs6mc-0.paid-pinn
 twitch.tv##div.Layout-sc-1xcs6mc-0.kbdfeJ:has(> div.etMEIA > article.kNyuUv > div.cLfLtl > div.TMVkh > div.jskmre > div.capulb > div.ScCalloutMessage-sc-23utpo-0.iWOciY.tw-callout-message > div.kBzdhm.tw-callout-message__header)
 # sub month recap on home / videos page 2/18
 twitch.tv##div.Layout-sc-1xcs6mc-0.ivrFkx:has(> article.kNyuUv > div.cLfLtl > div.TMVkh > div.jskmre > div.capulb > div.ScCalloutMessage-sc-23utpo-0.iWOciY.tw-callout-message > div.kBzdhm.tw-callout-message__header)
-# subtember ad
-twitch.tv##div.Layout-sc-1xcs6mc-0.itnkhV:has(> div.ScLayoutCssVars-sc-10awzi2-1.hecqoS > div.hGXNUW.subtember-gradient)
 # channels you follow in mod view - 11/12
 twitch.tv##div[data-highlight-selector="other-channels"] + div.ktLpvM
 # red dot on chat settings
@@ -361,6 +359,8 @@ twitch.tv##div:has(> div.eCiQQE > div.eynKOr > div.jKChow > div.ckOOIf > img)
 twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm:has-text(/^You will no longer receive notifications from/))
 # drops button under chat box - 2026-05-14
 twitch.tv##div:has(> div.PiZST > button.glPhvE.dgVYJo.brandColor--onm4m[aria-label='Drops'] > div.lnTwMD > div.tw-svg > svg > path)
+# subtember ad - 2026-09-29
+twitch.tv##div:has(> div.subtember-callout-container)
 
 # dangerous sub gift buttons - 2026-05-30
 twitch.tv##div:has(> div > button[data-a-target='gift-button-50'])
