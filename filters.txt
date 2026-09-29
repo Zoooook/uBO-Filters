@@ -416,6 +416,14 @@ twitch.tv##div:has(> div > a.navigation-link[data-test-selector="top-nav__pokemo
 # drops button - 2026-09-14
 twitch.tv##div:has(> div > button[aria-label="Drops"])
 
+# bits powerups - 2026-09-29
+twitch.tv##div.rewards-list > div:has(> p:has-text(/^Power-ups$/))
+twitch.tv##div.rewards-list > div.bitsRewardListItem--yx4rk
+twitch.tv##div.rewards-list > div:has(> div > p:has-text(/ Rewards$/))
+twitch.tv##div.rewards-list > div.eiqiWY
+twitch.tv##div.rewards-list > div:has(> div > div > div[aria-label="Watch streak progress"])
+
+
 # gemini nagger - 2026-07-29
 voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
 
