@@ -52,6 +52,7 @@ atlassian.net##div._kqsw1n9t._94n51ejb:has(> div > div > div > div[data-spotligh
 atlassian.net##div.css-e4yp7b:has(> div[data-testid='ai-proactive-container.view-test'] > div > div > div > span > span:has-text(/^Link similar work items$/))
 atlassian.net##div:has(> div[data-testid="ai-agent-sessions.title-container"])
 atlassian.net##div[data-testid="layout-controller.ui.bottom-right-corner.container.styled-container"]:has(form > div[data-testid="rovo-button-quick-input-container"])
+span[data-testid="atlassian-navigation.ui.conversation-assistant.app-navigation-ai-mate"]
 
 # Google integration naggers
 atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > span > div > div > div > div > span > div > button > span:has-text(/^Connect Google Drive$/))
@@ -71,6 +72,8 @@ atlassian.net##span:has(> div._2rko1mok._1reo15vq > div > div > button:has-text(
 atlassian.net##button[data-testid="button-connect-account"]
 atlassian.net##span[data-testid="icon-position-wrapper"]:has(> span[data-testid="icon-wrapper"] > img[data-testid="inline-card-icon-and-title-image"])
 atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > div > span > div > div > div > h2 > span:has-text(/^Connect Slack$/))
+
+
 
 discord.com##a[href="/store"]
 discord.com##a[href="/shop"]
@@ -95,6 +98,8 @@ discord.com##div#channel-attach-THREAD
 discord.com##div#channel-attach-poll
 discord.com##div#channel-attach-SLASH_COMMAND
 
+
+
 # ads - 2025-08-04
 docs.google.com##div:has(> div > div.docs-promo-container)
 # gemini - 2026-03-36
@@ -103,8 +108,12 @@ docs.google.com##div#docs-sidekick-button-container
 docs.google.com##div#docs-gemini-menu
 docs.google.com##div.waffleGriddySuggestionsBubbleContainer:has(> div.waffleGriddySuggestionsBubbleGeminiUi)
 
+
+
 # Gemini button - 2025-09-07
 drive.google.com##div#bPjCde.gb_se.gb_re:has(> div.a-OkO9ve-gAsIFc.a-OkO9ve-Qs0SX-yp5uJf.Hb-ja-Na > div.x9V2O > div > div.fkkwSc.e5IPTd > div.VOYwb.wUn25c > div.lWI5Pb)
+
+
 
 facebook.com###pagelet_ego_pane
 facebook.com###pagelet_megaphone
@@ -122,6 +131,8 @@ facebook.com##li:has(> span > div > a[aria-label^="Marketplace"])
 facebook.com##li:has(> span > div > a[aria-label^="Watch"])
 facebook.com##span.html-span.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1hl2dhg.x16tdsg8.x1vvkbs.xyiysdx.xuxw1ft:has(> span.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x1xmvt09.x1lliihq.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.x4zkp8e.x3x7a5m.x1nxh6w3.x1sibtaa.xo1l8bm.x1fey0fg > span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft.x1j85h84 > span.html-span.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1hl2dhg.x16tdsg8.x1vvkbs:has-text(/^Follow up/))
 facebook.com##div.x9f619.x1n2onr6.x1ja2u2z:has(> div > div > div > div > div > div > div > i[aria-label='Meta AI icon'])
+
+
 
 # Ask Maps - 2026-04-11
 google.com##div.KNfEk.Rqu0ae.aUjao:has(> button.e2moi > div.tXNTee.waIsr.T7HQDc > span.uEubGf.fontTitleSmall:has-text(/^Ask Maps$/))
@@ -187,6 +198,8 @@ google.com##div.SLPe5b:has(> div.XqFnDf > div > div > div.YzCcne > div.hdzaWe > 
 google.com##div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd.EyBRub > div > div > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV > div.D7ethf.CYJS5e.QejDDf.SodP3b.GHMsie.o6dXvc > div.wDYxhc > div > div > div > div)
 google.com##div#rcnt > div.SLPe5b:has(~ div.bzXtMb.M8OgIe.dRpWwb:has(> div > div > div.YNk70c.EjQTId > div.Kevs9.SLPe5b > div > div.pxiwBd.EyBRub > div > div > div.e8Ck0d.CYJS5e.eN5DFc.rFGNnf > div.VNzqVe > div.e6hL7d.As9MV > div.D7ethf.CYJS5e.QejDDf.SodP3b.GHMsie.o6dXvc > div.wDYxhc > div > div > div > div))
 
+
+
 instagram.com##nav
 instagram.com##footer
 instagram.com##._aagw
@@ -199,6 +212,8 @@ instagram.com##+js(cookie-remover)
 instagram.com##div#scrollview.x9f619.x1ja2u2z.x1pq812k.x5yr21d.x1o0tod.xw2csxc.x1odjw0f.xixxii4.x1rohswg.x13vifvy.xh8yej3.xfk6m8.x1yqm8si.xjx87ck:has(> div.x78zum5.xdt5ytf.xg6iff7.xippug5.x1n2onr6)
 instagram.com##div.x6s0dn4.x1jx94hy.x1obq294.x5a5i1n.xde0f50.x15x8krk.xdy0x9s.x78zum5.x2lah0s.x1qughib.xyamay9.x1xnnf8n.x1l90r2v.x106a9eq.x2b8uid.xeroabh.x1ww3oar.xs4xyr0.x1wpepyw.x4hg4is.x1iy03kw:has(> div.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1uhb9sk.x6ikm8r.x10wlt62.x1q0g3np.xqjyukv.x6s0dn4.x1oa3qoh.x1nhvcw1.x1t1x2f9.x1iyjqo2.xs83m0k > div.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1uhb9sk.xdt5ytf.x1a02dak.xqjyukv.x1qjc9v5.x1oa3qoh.xl56j7k.x1t1x2f9.x1iyjqo2.xs83m0k.x5yr21d.xw2csxc.x1odjw0f > span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.x1ji0vk5.x18bv5gf.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.x1i0vuye.xvs91rp.xo1l8bm.x5n08af.x1yc453h.x10wh9bi.xpm28yp.x8viiok.x1o7cslx > span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62):has(> div.x1c4vz4f.x2lah0s > div.x1i10hfl.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x972fbf.x10w94by.x1qhh985.x14e42zd.xdl72j9.x2lah0s.xe8uvvx.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.x18d9i69.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x1lku1pv.x1a2a7pz.x6s0dn4.xjyslct.x1obq294.x5a5i1n.xde0f50.x15x8krk.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x9f619.x9bdzbf.x1ypdohk.x1f6kntn.xwhw2v2.x10w6t97.xl56j7k.x17ydfre.xf7dkkf.xv54qhq.x1n2onr6.x2b8uid.xlyipyv.x87ps6o.x14atkfc.x5c86q.x18br7mf.x1i0vuye.x18cabeq.x158me93.xk4oym4.x1uugd1q.x3nfvp2)
 instagram.com##.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x9f619.xjbqb8w.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x78zum5.x5yr21d.xl56j7k.xixxii4.x13vifvy.xh8yej3.x1355qak
+
+
 
 mail.google.com##.J-KU-Jg.J-KU-Jg-Zc.aj5
 mail.google.com##.aeO
@@ -218,6 +233,8 @@ mail.google.com##div.gb_Sd.gb_1d.gb_Le.gb_Ve.gb_1e > div.gb_v.gb_re.bGJ > div.Zm
 # apps - 2026-03-03
 mail.google.com##div.gb_2d.gb_wb.gb_Sd.gb_4d > div.gb_Cd > div.gb_jd
 
+
+
 mail.yahoo.com###popover-selector
 mail.yahoo.com###ybarPoptart
 mail.yahoo.com##.H_qg.X_0.o_h.A_6EqO.ab_C.p_R.D_ZKxLmw.v_g9505.cdPFi_Z281SGl.k_w.I4_ZpQYvz.bn_dBP.bm_FJ.bj_ZpQYvz.I_ZprBTp.I4_fj1WV
@@ -225,6 +242,8 @@ mail.yahoo.com##.overlay
 mail.yahoo.com##.p_a Z_f8a
 mail.yahoo.com##.p_f.T_0.R_0.B_0.L_0.Z_3mRud.I_Zjpytw.D_F.ab_C gl_C
 mail.yahoo.com##.takeover
+
+
 
 # Gemini ad
 meet.google.com##div.KDbE6c:has(> i.quRWN-Bz112c):has(> div.oxwUde > div.ET9Qhb):has(> div.oxwUde > div.g5Lsrb):has(> span > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb > button.mUIrbf-LgbsSe.mUIrbf-LgbsSe-OWXEXe-dgl2Hf.mUIrbf-StrnGf-YYd4I-VtOx3e.Il839.jZkeEb.ckkN8b > span)
@@ -240,6 +259,8 @@ meet.google.com##span.DPvwYc.JnDFsc.ZXaXZ > span.T0OZEe > svg.Cwddbf
 meet.google.com##div.zYD19b:has(> div > div > div > div > div > div > span:has-text(/^You\'re joining without cam$/))
 meet.google.com##div.TZFSLb.P9KVBf:has(> span > div > div > h2 > span:has-text(/^Camera might be blocked$/))
 meet.google.com##span.VYBDae-Bz112c-kBDsod-Rtc0Jf:has(> span > i:has-text(/^videocam$/)) > span > svg
+
+
 
 pandora.com##.AppBg__img--rightRail:style(width: 100% !important)
 pandora.com##.DisplayAdController
@@ -257,6 +278,8 @@ pandora.com##.region-topBar--rightRail:style(width: 100% !important)
 https://www.pandora.com/api/v1/ad/getAdList
 https://www.pandora.com/api/v1/ad/registerImpression
 
+
+
 reddit.com##._1x6pySZ2CoUnAfsFhGe7J1
 reddit.com##div.x0hiXHicn7r3BG9m1FJH4._23q1waDr4n_2fR5A7zcZzb
 reddit.com##span._2I12Htze2UzJmmfnrgYJOn
@@ -273,7 +296,11 @@ reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
 www.reddit.com##a[href^='/search/?q=']:style(color: rgb(183, 202, 212) !important; pointer-events: none; cursor: default; text-decoration: none !important; border: none !important)
 www.reddit.com##search-telemetry-tracker > search-telemetry-tracker > a > span:has(> svg)
 
+
+
 slack.com##div[role="presentation"]:watch-attr(class):remove-class(c-message_kit__hidden_message_blur)
+
+
 
 twitch.tv##.front-page-carousel
 twitch.tv##section#channel-player-disclosures
@@ -429,13 +456,19 @@ twitch.tv##div:has(> div > div > div > button[aria-label="Shouts"])
 # bits nagger in top bar - 2026-10-02
 twitch.tv##div.top-nav__menu > div > div:has(> div > div > div > div > div > button[aria-label^="Bits: "])
 
+
+
 # gemini nagger - 2026-07-29
 voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
+
+
 
 wikipedia.org###centralNotice
 wikipedia.org###mwe-popups-svg
 wikipedia.org##.cn-fundraising
 wikipedia.org##.mwe-popups
+
+
 
 youtube.com##.yt-bubble-hint-renderer
 youtube.com##.ytp-ce-element
