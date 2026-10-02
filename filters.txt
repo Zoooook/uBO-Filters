@@ -426,6 +426,9 @@ twitch.tv##div.rewards-list > div:has(> div > div > div[aria-label="Watch streak
 # shouts spam - 2026-10-01
 twitch.tv##div:has(> div > div > div > button[aria-label="Shouts"])
 
+# bits nagger in top bar - 2026-10-02
+twitch.tv##div.top-nav__menu > div > div:has(> div > div > div > div > div > button[aria-label^="Bits: "])
+
 # gemini nagger - 2026-07-29
 voice.google.com##div.cdk-overlay-container:has(> div > div > mat-dialog-container > div > div > gv-user-notes-promo-dialog)
 
