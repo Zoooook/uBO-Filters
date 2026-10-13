@@ -458,6 +458,9 @@ twitch.tv##div:has(> div > div > div > button[aria-label="Shouts"])
 # bits nagger in top bar - 2026-10-02
 twitch.tv##div.top-nav__menu > div > div:has(> div > div > div > div > div > button[aria-label^="Bits: "])
 
+# watch streak nagger - 2026-10-13
+twitch.tv##div:has(> div > div.community-points-summary[data-test-selector="community-points-summary"] > div > div > div.ws-background > button[aria-label="Points Balance"] > div > div > div.ws-black-text > div > div > div.watch-streak-tilt-shake)
+
 
 
 # gemini nagger - 2026-07-29
