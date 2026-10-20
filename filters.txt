@@ -386,8 +386,6 @@ twitch.tv##div.kCBkGE:has(> div > div.cuNvuY > div > div.iDMNUO > div.ewGFPA > b
 twitch.tv##div:has(> div.eCiQQE > div.eynKOr > div.jKChow > div.ckOOIf > img)
 # notification nagging on offline stream - 2026-04-10
 twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm:has-text(/^You will no longer receive notifications from/))
-# drops button under chat box - 2026-05-14
-twitch.tv##div:has(> div.PiZST > button.glPhvE.dgVYJo.brandColor--onm4m[aria-label='Drops'] > div.lnTwMD > div.tw-svg > svg > path)
 # subtember ad - 2026-09-29
 twitch.tv##div:has(> div.subtember-callout-container)
 
@@ -442,8 +440,10 @@ twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > p:has-text(/^Jus
 # pokemon spam - 2026-08-28
 twitch.tv##div:has(> div > a.navigation-link[data-test-selector="top-nav__pokemon-worlds-2026-link"])
 
-# drops button - 2026-09-14
-twitch.tv##div:has(> div > button[aria-label="Drops"])
+# drops button under chat box - 2026-10-20
+twitch.tv##div:has(> div > div > button[aria-label^="Drops"])
+# drops spam in sidebar - 2026-10-20
+twitch.tv##div:has(> p[title="Creator Badge Drop"]:has-text(/^Creator Badge Drop$/))
 
 # bits powerups - 2026-09-29
 twitch.tv##div.rewards-list > div:has(> p:has-text(/^Power-ups$/))
@@ -458,7 +458,7 @@ twitch.tv##div:has(> div > div > div > button[aria-label="Shouts"])
 # bits nagger in top bar - 2026-10-02
 twitch.tv##div.top-nav__menu > div > div:has(> div > div > div > div > div > button[aria-label^="Bits: "])
 
-# watch streak nagger - 2026-10-13
+# watch streak nagger below chat - 2026-10-13
 twitch.tv##div:has(> div > div.community-points-summary[data-test-selector="community-points-summary"] > div > div > div.ws-background > button[aria-label="Points Balance"] > div > div > div.ws-black-text > div > div > div.watch-streak-tilt-shake)
 
 
