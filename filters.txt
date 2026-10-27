@@ -448,7 +448,10 @@ twitch.tv##div:has(> p[title="Creator Badge Drop"]:has-text(/^Creator Badge Drop
 
 # bits powerups - 2026-09-29
 twitch.tv##div.rewards-list > div:has(> p:has-text(/^Power-ups$/))
-twitch.tv##div.rewards-list > div.bitsRewardListItem--yx4rk
+twitch.tv##div.rewards-list > div.bitsRewardListItem--c2xvb
+twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^Message Effects$/))
+twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^Gigantify an Emote$/))
+twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^On-Screen Celebration$/))
 twitch.tv##div.rewards-list > div:has(> div > p:has-text(/ Rewards$/))
 twitch.tv##div.rewards-list > div.eiqiWY
 twitch.tv##div.rewards-list > div:has(> div > div > div[aria-label="Watch streak progress"])
