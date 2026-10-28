@@ -16,6 +16,7 @@ app.snowflake.com##span.cm-inline-suggestion
 app.snowflake.com##span.cm-tab-to-accept-container
 app.snowflake.com##div.wkspcs-78zum5:has(> div > p:has-text(/^Query taking too long/))
 app.snowflake.com##div[data-testid="ai-homepage-experiment-slot"]
+app.snowflake.com##div[data-testid="ai-homepage-for-you-feed-slot"]
 
 atlassian.net##div._zulp1kw7._1e0c1kw7:has(> div > button > span > span:has-text(/^$Switch sites or apps/)):has(> div > a > div > span > span > span:has-text(/^Jira$/))
 atlassian.net##span._19itglyw._vchhusvi._r06hglyw:has(> div > button > span:has-text(/^Ask Rovo$/))
@@ -446,7 +447,7 @@ twitch.tv##div:has(> div > div > button[aria-label^="Drops"])
 # drops spam in sidebar - 2026-10-20
 twitch.tv##div:has(> p[title="Creator Badge Drop"]:has-text(/^Creator Badge Drop$/))
 
-# bits powerups - 2026-09-29
+# bits powerups - 2026-10-26
 twitch.tv##div.rewards-list > div:has(> p:has-text(/^Power-ups$/))
 twitch.tv##div.rewards-list > div.bitsRewardListItem--c2xvb
 twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^Message Effects$/))
