@@ -466,6 +466,9 @@ twitch.tv##div.top-nav__menu > div > div:has(> div > div > div > div > div > but
 # watch streak nagger below chat - 2026-10-13
 twitch.tv##div:has(> div > div.community-points-summary[data-test-selector="community-points-summary"] > div > div > div.ws-background > button[aria-label="Points Balance"] > div > div > div.ws-black-text > div > div > div.watch-streak-tilt-shake)
 
+# partner anniversary in sidebar - 2026-10-29
+twitch.tv##div:has(> p[title="Partner Anniversary"]:has-text(/^Partner Anniversary$/))
+
 
 
 # gemini nagger - 2026-07-29
