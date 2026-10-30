@@ -471,7 +471,7 @@ twitch.tv##div:has(> p[title="Partner Anniversary"]:has-text(/^Partner Anniversa
 twitch.tv##div:has(> p[title="Affiliate Anniversary"]:has-text(/^Affiliate Anniversary$/))
 
 # gift sub ad - 2026-10-31
-twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > div > p:has-text(/^Get 35% off 5 or more Gift Subs. $/))
+twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > div > p:has-text(/^Get 35% off 5 or more Gift Subs. /))
 
 
 
