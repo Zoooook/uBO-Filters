@@ -469,7 +469,7 @@ twitch.tv##div:has(> div > div.community-points-summary[data-test-selector="comm
 # anniversaries in sidebar - 2026-10-29
 twitch.tv##div:has(> p[title="Partner Anniversary"]:has-text(/^Partner Anniversary$/))
 twitch.tv##div:has(> p[title="Affiliate Anniversary"]:has-text(/^Affiliate Anniversary$/))
-twitch.tv##div:has(> p[title$="Streamversary!"]:has-text(/Streamversary!$/)
+twitch.tv##div:has(> p[title$="Streamversary!"]:has-text(/Streamversary!$/))
 
 # gift sub ad - 2026-10-31
 twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > div > p:has-text(/^Get 35% off 5 or more Gift Subs. /))
