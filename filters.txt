@@ -447,9 +447,9 @@ twitch.tv##div:has(> div > div > button[aria-label^="Drops"])
 # drops spam in sidebar - 2026-10-20
 twitch.tv##div:has(> p[title="Creator Badge Drop"]:has-text(/^Creator Badge Drop$/))
 
-# bits powerups - 2026-10-26
+# bits powerups - 2026-10-30
 twitch.tv##div.rewards-list > div:has(> p:has-text(/^Power-ups$/))
-twitch.tv##div.rewards-list > div.bitsRewardListItem--c2xvb
+twitch.tv##div[class*="bitsCustomRewardListItem--"]
 twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^Message Effects$/))
 twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^Gigantify an Emote$/))
 twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^On-Screen Celebration$/))
