@@ -447,7 +447,7 @@ twitch.tv##div:has(> div > div > button[aria-label^="Drops"])
 # drops spam in sidebar - 2026-10-20
 twitch.tv##div:has(> p[title="Creator Badge Drop"]:has-text(/^Creator Badge Drop$/))
 
-# bits powerups - 2026-10-30
+# bits powerups - 2026-11-06
 twitch.tv##div.rewards-list > div:has(> p:has-text(/^Power-ups$/))
 twitch.tv##div[class*="bitsCustomRewardListItem--"]
 twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:has-text(/^Message Effects$/))
@@ -456,6 +456,8 @@ twitch.tv##div.rewards-list > div:has(> button.tw-interactable > div > div > p:h
 twitch.tv##div.rewards-list > div:has(> div > p:has-text(/ Rewards$/))
 twitch.tv##div.rewards-list > div.eiqiWY
 twitch.tv##div.rewards-list > div:has(> div > div > div[aria-label="Watch streak progress"])
+twitch.tv##div:has(> div > div[data-test-selector="chat-private-callout-queue__callout-container"] > div > div[aria-label="Chat notification"] > div > div > div > span:has-text(/^A Power-up/))
+twitch.tv##div:has(> div > div.inline-private-callout-line__header > div > p:has-text(/^ Only visible to you $/)):has(> div > div > div > span:has-text(/^Use Bits to send a Power-up/))
 
 # shouts spam - 2026-10-01
 twitch.tv##div:has(> div > div > div > button[aria-label="Shouts"])
