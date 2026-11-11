@@ -37,7 +37,9 @@ for line in html:
             line += '#' + attrs['id']
             del attrs['id']
         if 'class' in attrs:
-            line += '.' + '.'.join(attrs['class'].split(' '))
+            classes = '.'.join(filter(lambda c: not re.match(r'_[0-4][0-9a-zA-Z]{9}', c) and not re.match(r'css-[0-9a-z]{6}', c), attrs['class'].split(' ')))
+            if len(classes):
+                line += '.' + classes
             del attrs['class']
         for key, val in attrs.items():
             line += '[' + key + '="' + val + '"]'

@@ -18,15 +18,22 @@ app.snowflake.com##div.wkspcs-78zum5:has(> div > p:has-text(/^Query taking too l
 app.snowflake.com##div[data-testid="ai-homepage-experiment-slot"]
 app.snowflake.com##div[data-testid="ai-homepage-for-you-feed-slot"]
 
-atlassian.net##div._zulp1kw7._1e0c1kw7:has(> div > button > span > span:has-text(/^$Switch sites or apps/)):has(> div > a > div > span > span > span:has-text(/^Jira$/))
-atlassian.net##span._19itglyw._vchhusvi._r06hglyw:has(> div > button > span:has-text(/^Ask Rovo$/))
-atlassian.net##div._fsjd4zrn._nwukvy9e._2hwx12x7:has(> button[aria-label='Link contributing teams'])
+atlassian.net##button:has(> span > span:has-text(/^Switch apps and sites$/))
+atlassian.net##span[data-testid="atlassian-navigation--product-home--container"]:has(> a[aria-label="Go to your Jira homepage"])
+atlassian.net##span[data-testid="atlassian-navigation.ui.conversation-assistant.app-navigation-ai-mate"]
+atlassian.net##div:has(> div > button[aria-label="Link contributing teams"]):has(> span > button[data-testid="navigation-board-action-menu.ui.dropdown"])
 atlassian.net##button#po-spotlight-share-button
-# atlassian.net##div._19pkidpf._2hwx1b66:has(> button > span:has-text(/^(Apps|Share)$/))
-atlassian.net##li._qtt8glyw._19pkidpf:has(> div > div > div > div > a > span:has-text(/^(Summary|Timeline|Calendar|Reports|List|Forms|All work|Components|Development|Security|Releases|Deployments|Archived work items|Pages|Planning Poker Agility|ScriptRunner Enhanced Search|Canned Responses Pro|SprintRetro|Pages|Review|Goals)$/))
-atlassian.net##li._qtt8glyw._19pkidpf:has(> div > div > div > div > button:has-text(/^Shortcuts$/))
-atlassian.net##div:has(> li._qtt8glyw._19pkidpf > div > div > div > div > a > span:has-text(/^Docs$/))
-atlassian.net##div._16jlidpf._1o9zidpf._i0dl1wug:has(> div > div > div > div > button:has-text(/^More$/))
+atlassian.net##nav[aria-label="Space navigation"] > ul > li#horizontal-nav-tabs-REPORTS
+atlassian.net##nav[aria-label="Space navigation"] > ul > li#horizontal-nav-tabs-LIST
+atlassian.net##nav[aria-label="Space navigation"] > ul > li#horizontal-nav-tabs-GOALS
+atlassian.net##nav[aria-label="Space navigation"] > ul > li#horizontal-nav-tabs-DEVELOPMENT
+atlassian.net##nav[aria-label="Space navigation"] > ul > li#horizontal-nav-tabs-ARCHIVED_ISSUES
+atlassian.net##nav[aria-label="Space navigation"] > ul > li#horizontal-nav-tabs-PAGES
+atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div > div > div > div[data-testid="navigation-kit-ui-tab.ui.dropdown-trigger-tab.tab-button"] > button[data-testid="horizontal-nav-shortcuts-tab.dropdown-menu-trigger"])
+atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div[data-testid="horizontal-nav.app-tab.Canned Responses Pro"])
+atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div[data-testid="horizontal-nav.app-tab.SprintRetro"])
+atlassian.net##nav[aria-label="Space navigation"] > div:has(> div > div > div > div[data-testid="navigation-kit-ui-tab.ui.dropdown-trigger-tab.tab-button"] > button[data-testid="navigation-kit-ui-tab-list.ui.more-trigger.more-tab"])
+
 atlassian.net##div._16jlkb7n._1o9zkb7n > div > span:has(> button > span > span:has-text(/^(Backlog insights|More actions)$/))
 atlassian.net##div.css-wjqh11:has(> button > span:has-text(/^Complete sprint$/))
 atlassian.net##div.css-wjqh11:has(> div > button > span:has-text(/^Start sprint$/))
@@ -72,10 +79,10 @@ atlassian.net##span:has(div > div > div > button:has-text(/^Connect Google Drive
 atlassian.net##div.atlaskit-portal:has(span:has-text(/^Connect Google Drive$/))
 
 # Slack integration naggers
-atlassian.net##span:has(> div._2rko1mok._1reo15vq > div > div > button:has-text(/^Connect$/))
 atlassian.net##button[data-testid="button-connect-account"]
 atlassian.net##span[data-testid="icon-position-wrapper"]:has(> span[data-testid="icon-wrapper"] > img[data-testid="inline-card-icon-and-title-image"])
 atlassian.net##div.atlaskit-portal:has(> div > div > div > div > div > div > span > div > div > div > h2 > span:has-text(/^Connect Slack$/))
+atlassian.net##span:has(> div > div > div > button:has-text(/^Connect Slack$/))
 
 
 
@@ -249,14 +256,10 @@ mail.yahoo.com##.takeover
 
 
 
-# Gemini ad
-meet.google.com##div.KDbE6c:has(> i.quRWN-Bz112c):has(> div.oxwUde > div.ET9Qhb):has(> div.oxwUde > div.g5Lsrb):has(> span > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb > button.mUIrbf-LgbsSe.mUIrbf-LgbsSe-OWXEXe-dgl2Hf.mUIrbf-StrnGf-YYd4I-VtOx3e.Il839.jZkeEb.ckkN8b > span)
-meet.google.com##div:has(> div > footer.XQbXAb > div.eoEoM > i.quRWN-Bz112c.google-symbols.notranslate.HUBUOe):has(> div > footer.XQbXAb > div.eoEoM > div > a.DAA2Ae)
-# Gemini ad 2026-03-25
-meet.google.com##div.KxrHRd:has(> div.K4vxLd-WsjYwc.KZkX7d.JvlbJd.owskpe > div.K4vxLd-aGsRMb > div.frrKmd > div.d5NbRd-EScbFb-JIbuQc.OST1qd[aria-label="Use Gemini to take notes Share notes and transcript"]):has(> div.K4vxLd-WsjYwc.KZkX7d.JvlbJd.owskpe > div.K4vxLd-aGsRMb > div.frrKmd > div.ZKpN4e > div.R0AHUd > div.EcsYn:has-text(/Use Gemini to take notes/))
-# Gemini ad in meeting
-meet.google.com##div.YvIqNe:has(> div.pt8HRc.RTBkae > span > button.wX4xVc-Bz112c-LgbsSe.wX4xVc-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.gP9Sgd.lSuz7d > span.wX4xVc-Bz112c-kBDsod-Rtc0Jf > i.google-symbols.ebW6mc)
-meet.google.com##div.TZFSLb.a558Id.X2mOrf.P9KVBf:has(> span.bifLQe > div.zItlrb.xL0oje > div.GBMHM.Ti8zQb > div.TrPwfb):has(> span.bifLQe > div.zItlrb.xL0oje > div.GBMHM.Ti8zQb > div.nUcFIf > div > a.d2jxE):has(> span.bifLQe > div.zItlrb.xL0oje > div.Sxpqfb.Ti8zQb > span > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb > button.YUhpIc-LgbsSe.YUhpIc-LgbsSe-OWXEXe-SfQLQb-suEOdc.YUhpIc-LgbsSe-OWXEXe-dgl2Hf.YUhpIc-StrnGf-YYd4I-VtOx3e.YUhpIc-kSE8rc-FoKg4d-sLO9V-YoZ4jf.xNnXl.Ti8zQb > div.XDoBEd-JGcpL-MkD1Ye.YUhpIc-UdE5de-uDEFge > div.XDoBEd-JGcpL-P1ekSe.XDoBEd-JGcpL-P1ekSe-OWXEXe-A9y3zc.XDoBEd-JGcpL-P1ekSe-OWXEXe-xTMeO > div.XDoBEd-JGcpL-lMrXfd)
+# Gemini ad before meeting 2026-11-11
+meet.google.com##div:has(> div > div > div > div[aria-label^="Use Gemini"])
+# Gemini ad in meeting - 2026-11-11
+meet.google.com##div:has(> span > span > span > div > div > div > div > div > div > div > div > div:has-text(/^Take notes with Gemini$/))
 # camera nagger - 2026-08-13
 meet.google.com##div.oZ3U3b.C0exoc.CCDcoc[role='alert']:has(> div > div > h2 > span:has-text(/^Camera might be blocked$/))
 meet.google.com##span.DPvwYc.JnDFsc.ZXaXZ > span.T0OZEe > svg.Cwddbf
@@ -264,6 +267,8 @@ meet.google.com##div.zYD19b:has(> div > div > div > div > div > div > span:has-t
 meet.google.com##div.TZFSLb.P9KVBf:has(> span > div > div > h2 > span:has-text(/^Camera might be blocked$/))
 meet.google.com##span.VYBDae-Bz112c-kBDsod-Rtc0Jf:has(> span > i:has-text(/^videocam$/)) > span > svg
 
+# past meetings - 2026-11-11
+meet.google.com##div:has(> section > div:has-text(/^Past$/))
 
 
 pandora.com##.AppBg__img--rightRail:style(width: 100% !important)
