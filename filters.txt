@@ -32,6 +32,8 @@ atlassian.net##nav[aria-label="Space navigation"] > ul > li#horizontal-nav-tabs-
 atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div > div > div > div[data-testid="navigation-kit-ui-tab.ui.dropdown-trigger-tab.tab-button"] > button[data-testid="horizontal-nav-shortcuts-tab.dropdown-menu-trigger"])
 atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div[data-testid="horizontal-nav.app-tab.Canned Responses Pro"])
 atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div[data-testid="horizontal-nav.app-tab.SprintRetro"])
+atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div[data-testid="horizontal-nav.app-tab.ScriptRunner Enhanced Search"])
+atlassian.net##nav[aria-label="Space navigation"] > ul > li:has(> div[data-testid="horizontal-nav.app-tab.Review"])
 atlassian.net##nav[aria-label="Space navigation"] > div:has(> div > div > div > div[data-testid="navigation-kit-ui-tab.ui.dropdown-trigger-tab.tab-button"] > button[data-testid="navigation-kit-ui-tab-list.ui.more-trigger.more-tab"])
 
 atlassian.net##div._16jlkb7n._1o9zkb7n > div > span:has(> button > span > span:has-text(/^(Backlog insights|More actions)$/))
