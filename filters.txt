@@ -399,10 +399,10 @@ twitch.tv##div.eoGsRO.follow-panel-overlay.imbKZa.tw-transition:has(> p.iUgmxm:h
 twitch.tv##div:has(> div.subtember-callout-container)
 
 # dangerous sub gift buttons - 2026-11-18
-twitch.tv##div.gifting-option-card:has(> div > img > div#gift-text-oneclick-50)
-twitch.tv##div.gifting-option-card:has(> div > img > div#gift-text-oneclick-100)
-twitch.tv##div.gifting-option-card:has(> div > img > div#gift-text-oneclick-200)
-twitch.tv##div.gifting-option-card:has(> div > img > div#gift-text-oneclick-1000)
+twitch.tv##div.gifting-option-card:has(> div > div#gift-text-oneclick-50)
+twitch.tv##div.gifting-option-card:has(> div > div#gift-text-oneclick-100)
+twitch.tv##div.gifting-option-card:has(> div > div#gift-text-oneclick-200)
+twitch.tv##div.gifting-option-card:has(> div > div#gift-text-oneclick-1000)
 twitch.tv##div:has(> div > div > button[aria-label$=', gift now'])
 
 # partner anniversary chat notification - doesn't block sub announcement button - 2025-10-06
