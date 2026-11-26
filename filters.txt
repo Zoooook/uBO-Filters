@@ -481,8 +481,8 @@ twitch.tv##div:has(> p[title="Partner Anniversary"]:has-text(/^Partner Anniversa
 twitch.tv##div:has(> p[title="Affiliate Anniversary"]:has-text(/^Affiliate Anniversary$/))
 twitch.tv##div:has(> p[title$="Streamversary!"]:has-text(/Streamversary!$/))
 
-# gift sub ad - 2026-10-31
-twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > div > p:has-text(/^Get 35% off 5 or more Gift Subs. /))
+# gift sub ad - 2026-11-25
+twitch.tv##div:has(> div > div > div > div > div > div > div > p > span > a:has-text(/^Terms apply.$/))
 
 # badge spam - 2026-11-20
 twitch.tv##div:has(> div > p:has-text(/^Active Campaigns$/))
