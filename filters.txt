@@ -419,9 +419,6 @@ twitch.tv##header[aria-label='Latest videos'] + div
 twitch.tv##div[data-target='following__follow-games-cta']
 twitch.tv##div:has(> div.scrollable-area > div > h2:has-text(/^Stories$/))
 
-# gift sub ad - 2026-06-05
-twitch.tv##div.fDCFaY:has(> div > div > div > div > div > span > span > a:has-text(/^Terms Apply/))
-
 # follow nagger
 twitch.tv##div.kydOpI:has(> div > article > div > div > div > div > div > button[aria-label='Close follow prompt'])
 
@@ -434,13 +431,11 @@ twitch.tv##div.dTzELJ:has(> div > p:has-text(/^Earn Weekly Rewards!$/))
 # spam in sidebar - 2026-11-24
 twitch.tv##div.bOtksM:has(> p[title^="Watch Streak "]:has-text(/^Watch Streak /))
 twitch.tv##div:has(> p[title="Piñata"]:has-text(/^Piñata$/))
+twitch.tv##div.side-nav__title:has(> h3:has-text(/^For You$/))
+twitch.tv##div[aria-label="Watch Streaks at risk"]
 
 # bonus subs banner - 2026-07-31
 twitch.tv##div.stream-chat > div:has(> div[data-test-selector="channel-skins-shared-above-chat-v3"] > button[aria-label="BONUS SUBS"])
-
-# sidebar spam - 2026-08-15
-twitch.tv##div.side-nav__title:has(> h3:has-text(/^For You$/))
-twitch.tv##div[aria-label="Watch Streaks at risk"]
 
 # gift sub discount naggers - 2026-08-18
 twitch.tv##div.hgGjHP:has(> div > div > div > div.giftExpirationCalloutCreatorLed--MnvcU)
@@ -482,7 +477,7 @@ twitch.tv##div:has(> p[title="Affiliate Anniversary"]:has-text(/^Affiliate Anniv
 twitch.tv##div:has(> p[title$="Streamversary!"]:has-text(/Streamversary!$/))
 
 # gift sub ad - 2026-11-25
-twitch.tv##div:has(> div > div > div > div > div > div > div > p > span > a:has-text(/^Terms apply.$/))
+twitch.tv##div.hgGjHP:has(> div > div > div > div > div > div > div > p > span > a:has-text(/^Terms apply.$/))
 
 # badge spam - 2026-11-20
 twitch.tv##div:has(> div > p:has-text(/^Active Campaigns$/))
